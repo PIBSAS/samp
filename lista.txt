@@ -1,966 +1,402 @@
-wget "${URL}samp/M7 - 3 Rooms 03 Studio B Far/3 Rooms 03 Studio B Far  M-to-S.wav" -P ${music}
-wget "${URL}samp/M7 - 3 Rooms 03 Studio B Far/3 Rooms 03 Studio B Far L.wav" -P ${music}
-wget "${URL}samp/M7 - 3 Rooms 03 Studio B Far/3 Rooms 03 Studio B Far R.wav" -P ${music}
-wget "${URL}samp/M7 - 1 Halls 17 Berliner Hall/1 Halls 17 Berliner Hall  M-to-S.wav" -P ${music}
-wget "${URL}samp/M7 - 1 Halls 17 Berliner Hall/1 Halls 17 Berliner Hall L.wav" -P ${music}
-wget "${URL}samp/M7 - 1 Halls 17 Berliner Hall/1 Halls 17 Berliner Hall R.wav" -P ${music}
-wget "${URL}samp/M7 - 3 Rooms 26 Large Room/3 Rooms 26 Large Room R.wav" -P ${music}
-wget "${URL}samp/M7 - 3 Rooms 26 Large Room/3 Rooms 26 Large Room  M-to-S.wav" -P ${music}
-wget "${URL}samp/M7 - 3 Rooms 26 Large Room/3 Rooms 26 Large Room L.wav" -P ${music}
-wget "${URL}samp/M7 - 3 Rooms 13 Medium Tiled Room/3 Rooms 13 Medium Tiled Room R.wav" -P ${music}
-wget "${URL}samp/M7 - 3 Rooms 13 Medium Tiled Room/3 Rooms 13 Medium Tiled Room L.wav" -P ${music}
-wget "${URL}samp/M7 - 3 Rooms 13 Medium Tiled Room/3 Rooms 13 Medium Tiled Room  M-to-S.wav" -P ${music}
-wget "${URL}samp/M7 - 2 Plates 08 Rich Plate/2 Plates 08 Rich Plate  M-to-S.wav" -P ${music}
-wget "${URL}samp/M7 - 2 Plates 08 Rich Plate/2 Plates 08 Rich Plate R.wav" -P ${music}
-wget "${URL}samp/M7 - 2 Plates 08 Rich Plate/2 Plates 08 Rich Plate L.wav" -P ${music}
-wget "${URL}samp/M7 - 5 Ambiences 07 Large & Bright/5 Ambiences 07 Large & Bright R.wav" -P ${music}
-wget "${URL}samp/M7 - 5 Ambiences 07 Large & Bright/5 Ambiences 07 Large & Bright L.wav" -P ${music}
-wget "${URL}samp/M7 - 5 Ambiences 07 Large & Bright/5 Ambiences 07 Large & Bright  M-to-S.wav" -P ${music}
-wget "${URL}samp/M7 - 1 Halls 19 Boston Hall B/1 Halls 19 Boston Hall B L.wav" -P ${music}
-wget "${URL}samp/M7 - 1 Halls 19 Boston Hall B/1 Halls 19 Boston Hall B  M-to-S.wav" -P ${music}
-wget "${URL}samp/M7 - 1 Halls 19 Boston Hall B/1 Halls 19 Boston Hall B R.wav" -P ${music}
-wget "${URL}samp/M7 - 1 Halls 21 Vienna Hall/1 Halls 20 Vienna Hall R.wav" -P ${music}
-wget "${URL}samp/M7 - 1 Halls 21 Vienna Hall/1 Halls 20 Vienna Hall  M-to-S.wav" -P ${music}
-wget "${URL}samp/M7 - 1 Halls 21 Vienna Hall/1 Halls 20 Vienna Hall L.wav" -P ${music}
-wget "${URL}samp/M7 - 5 Ambiences 03 Small Ambience/5 Ambiences 03 Small Ambience R.wav" -P ${music}
-wget "${URL}samp/M7 - 5 Ambiences 03 Small Ambience/5 Ambiences 03 Small Ambience L.wav" -P ${music}
-wget "${URL}samp/M7 - 5 Ambiences 03 Small Ambience/5 Ambiences 03 Small Ambience  M-to-S.wav" -P ${music}
-wget "${URL}samp/M7 - 1 Halls 16 Amsterdam Hall/1 Halls 16 Amsterdam Hall L.wav" -P ${music}
-wget "${URL}samp/M7 - 1 Halls 16 Amsterdam Hall/1 Halls 16 Amsterdam Hall  M-to-S.wav" -P ${music}
-wget "${URL}samp/M7 - 1 Halls 16 Amsterdam Hall/1 Halls 16 Amsterdam Hall R.wav" -P ${music}
-wget "${URL}samp/M7 - 6 Spaces 12 Academy Yard/6 Spaces 12 Academy Yard  M-to-S.wav" -P ${music}
-wget "${URL}samp/M7 - 6 Spaces 12 Academy Yard/6 Spaces 12 Academy Yard R.wav" -P ${music}
-wget "${URL}samp/M7 - 6 Spaces 12 Academy Yard/6 Spaces 12 Academy Yard L.wav" -P ${music}
-wget "${URL}samp/M7 - 1 Halls 25 Saint Sylvain/1 Halls 25 Saint Sylvain  M-to-S.wav" -P ${music}
-wget "${URL}samp/M7 - 1 Halls 25 Saint Sylvain/1 Halls 25 Saint Sylvain L.wav" -P ${music}
-wget "${URL}samp/M7 - 1 Halls 25 Saint Sylvain/1 Halls 25 Saint Sylvain R.wav" -P ${music}
-wget "${URL}samp/M7 - 2 Plates 10 Dense Plate/2 Plates 10 Dense Plate L.wav" -P ${music}
-wget "${URL}samp/M7 - 2 Plates 10 Dense Plate/2 Plates 10 Dense Plate R.wav" -P ${music}
-wget "${URL}samp/M7 - 2 Plates 10 Dense Plate/2 Plates 10 Dense Plate  M-to-S.wav" -P ${music}
-wget "${URL}samp/M7 - 6 Spaces 17 Gated Space/6 Spaces 17 Gated Space R.wav" -P ${music}
-wget "${URL}samp/M7 - 6 Spaces 17 Gated Space/6 Spaces 17 Gated Space L.wav" -P ${music}
-wget "${URL}samp/M7 - 6 Spaces 17 Gated Space/6 Spaces 17 Gated Space  M-to-S.wav" -P ${music}
-wget "${URL}samp/M7 - 1 Halls 14 Clear Hall/1 Halls 14 Clear Hall  M-to-S.wav" -P ${music}
-wget "${URL}samp/M7 - 1 Halls 14 Clear Hall/1 Halls 14 Clear Hall R.wav" -P ${music}
-wget "${URL}samp/M7 - 1 Halls 14 Clear Hall/1 Halls 14 Clear Hall L.wav" -P ${music}
-wget "${URL}samp/M7 - 5 Ambiences 14 Bass XXL/5 Ambiences 14 Bass XXL R.wav" -P ${music}
-wget "${URL}samp/M7 - 5 Ambiences 14 Bass XXL/5 Ambiences 14 Bass XXL L.wav" -P ${music}
-wget "${URL}samp/M7 - 5 Ambiences 14 Bass XXL/5 Ambiences 14 Bass XXL  M-to-S.wav" -P ${music}
-wget "${URL}samp/M7 - 5 Ambiences 13 Heavy Ambience/5 Ambiences 13 Heavy Ambience  M-to-S.wav" -P ${music}
-wget "${URL}samp/M7 - 5 Ambiences 13 Heavy Ambience/5 Ambiences 13 Heavy Ambience L.wav" -P ${music}
-wget "${URL}samp/M7 - 5 Ambiences 13 Heavy Ambience/5 Ambiences 13 Heavy Ambience R.wav" -P ${music}
-wget "${URL}samp/Version 1.1 Read Me.txt" -P ${music}
-wget "${URL}samp/M7 - 6 Spaces 09 Arena/6 Spaces 09 Arena R.wav" -P ${music}
-wget "${URL}samp/M7 - 6 Spaces 09 Arena/6 Spaces 09 Arena  M-to-S.wav" -P ${music}
-wget "${URL}samp/M7 - 6 Spaces 09 Arena/6 Spaces 09 Arena L.wav" -P ${music}
-wget "${URL}samp/M7 - 2 Plates 09 Gold Plate/2 Plates 09 Gold Plate  M-to-S.wav" -P ${music}
-wget "${URL}samp/M7 - 2 Plates 09 Gold Plate/2 Plates 09 Gold Plate L.wav" -P ${music}
-wget "${URL}samp/M7 - 2 Plates 09 Gold Plate/2 Plates 09 Gold Plate R.wav" -P ${music}
-wget "${URL}samp/M7 - 3 Rooms 08 Music Room/3 Rooms 08 Music Room  M-to-S.wav" -P ${music}
-wget "${URL}samp/M7 - 3 Rooms 08 Music Room/3 Rooms 08 Music Room L.wav" -P ${music}
-wget "${URL}samp/M7 - 3 Rooms 08 Music Room/3 Rooms 08 Music Room R.wav" -P ${music}
-wget "${URL}samp/M7 - 3 Rooms 04 Studio C/3 Rooms 04 Studio C L.wav" -P ${music}
-wget "${URL}samp/M7 - 3 Rooms 04 Studio C/3 Rooms 04 Studio C R.wav" -P ${music}
-wget "${URL}samp/M7 - 3 Rooms 04 Studio C/3 Rooms 04 Studio C  M-to-S.wav" -P ${music}
-wget "${URL}samp/M7 - 6 Spaces 04 West Church/6 Spaces 04 West Church L.wav" -P ${music}
-wget "${URL}samp/M7 - 6 Spaces 04 West Church/6 Spaces 04 West Church  M-to-S.wav" -P ${music}
-wget "${URL}samp/M7 - 6 Spaces 04 West Church/6 Spaces 04 West Church R.wav" -P ${music}
-wget "${URL}samp/M7 - 4 Chambers 07 Small & Bright/4 Chambers 07 Small & Bright R.wav" -P ${music}
-wget "${URL}samp/M7 - 4 Chambers 07 Small & Bright/4 Chambers 07 Small & Bright L.wav" -P ${music}
-wget "${URL}samp/M7 - 4 Chambers 07 Small & Bright/4 Chambers 07 Small & Bright  M-to-S.wav" -P ${music}
-wget "${URL}samp/M7 - 2 Plates 17 Small Plate/2 Plates 17 Small Plate L.wav" -P ${music}
-wget "${URL}samp/M7 - 2 Plates 17 Small Plate/2 Plates 17 Small Plate  M-to-S.wav" -P ${music}
-wget "${URL}samp/M7 - 2 Plates 17 Small Plate/2 Plates 17 Small Plate R.wav" -P ${music}
-wget "${URL}samp/M7 - 4 Chambers 01 Large Chamber/4 Chambers 01 Large Chamber  M-to-S.wav" -P ${music}
-wget "${URL}samp/M7 - 4 Chambers 01 Large Chamber/4 Chambers 01 Large Chamber L.wav" -P ${music}
-wget "${URL}samp/M7 - 4 Chambers 01 Large Chamber/4 Chambers 01 Large Chamber R.wav" -P ${music}
-wget "${URL}samp/M7 - 3 Rooms 29 Center Room/3 Rooms 29 Center Room R.wav" -P ${music}
-wget "${URL}samp/M7 - 3 Rooms 29 Center Room/3 Rooms 29 Center Room  M-to-S.wav" -P ${music}
-wget "${URL}samp/M7 - 3 Rooms 29 Center Room/3 Rooms 29 Center Room L.wav" -P ${music}
-wget "${URL}samp/M7 - 4 Chambers 15 Amb Chamber A/4 Chambers 15 Amb Chamber A R.wav" -P ${music}
-wget "${URL}samp/M7 - 4 Chambers 15 Amb Chamber A/4 Chambers 15 Amb Chamber A  M-to-S.wav" -P ${music}
-wget "${URL}samp/M7 - 4 Chambers 15 Amb Chamber A/4 Chambers 15 Amb Chamber A L.wav" -P ${music}
-wget "${URL}samp/M7 - 3 Rooms 06 Studio E/3 Rooms 06 Studio E R.wav" -P ${music}
-wget "${URL}samp/M7 - 3 Rooms 06 Studio E/3 Rooms 06 Studio E L.wav" -P ${music}
-wget "${URL}samp/M7 - 3 Rooms 06 Studio E/3 Rooms 06 Studio E  M-to-S.wav" -P ${music}
-wget "${URL}samp/M7 - 1 Halls 02 Medium Hall/1 Halls 02 Medium Hall R.wav" -P ${music}
-wget "${URL}samp/M7 - 1 Halls 02 Medium Hall/1 Halls 02 Medium Hall  M-to-S.wav" -P ${music}
-wget "${URL}samp/M7 - 1 Halls 02 Medium Hall/1 Halls 02 Medium Hall L.wav" -P ${music}
-wget "${URL}samp/M7 - 4 Chambers 14 Deep Chamber/4 Chambers 14 Deep Chamber L.wav" -P ${music}
-wget "${URL}samp/M7 - 4 Chambers 14 Deep Chamber/4 Chambers 14 Deep Chamber  M-to-S.wav" -P ${music}
-wget "${URL}samp/M7 - 4 Chambers 14 Deep Chamber/4 Chambers 14 Deep Chamber R.wav" -P ${music}
-wget "${URL}samp/M7 - 2 Plates 05 Snare Plate B/2 Plates 05 Snare Plate B L.wav" -P ${music}
-wget "${URL}samp/M7 - 2 Plates 05 Snare Plate B/2 Plates 05 Snare Plate B R.wav" -P ${music}
-wget "${URL}samp/M7 - 2 Plates 05 Snare Plate B/2 Plates 05 Snare Plate B  M-to-S.wav" -P ${music}
-wget "${URL}samp/M7 - 4 Chambers 02 Medium Chamber/4 Chambers 02 Medium Chamber  M-to-S.wav" -P ${music}
-wget "${URL}samp/M7 - 4 Chambers 02 Medium Chamber/4 Chambers 02 Medium Chamber L.wav" -P ${music}
-wget "${URL}samp/M7 - 4 Chambers 02 Medium Chamber/4 Chambers 02 Medium Chamber R.wav" -P ${music}
-wget "${URL}samp/M7 - 5 Ambiences 05 Medium & Dark/5 Ambiences 05 Medium & Dark R.wav" -P ${music}
-wget "${URL}samp/M7 - 5 Ambiences 05 Medium & Dark/5 Ambiences 05 Medium & Dark L.wav" -P ${music}
-wget "${URL}samp/M7 - 5 Ambiences 05 Medium & Dark/5 Ambiences 05 Medium & Dark  M-to-S.wav" -P ${music}
-wget "${URL}samp/M7 - 3 Rooms 12 Large Tiled Room/3 Rooms 12 Large Tiled Room L.wav" -P ${music}
-wget "${URL}samp/M7 - 3 Rooms 12 Large Tiled Room/3 Rooms 12 Large Tiled Room R.wav" -P ${music}
-wget "${URL}samp/M7 - 3 Rooms 12 Large Tiled Room/3 Rooms 12 Large Tiled Room  M-to-S.wav" -P ${music}
-wget "${URL}samp/M7 - 1 Halls 09 Medium & Deep/1 Halls 09 Medium & Deep  M-to-S.wav" -P ${music}
-wget "${URL}samp/M7 - 1 Halls 09 Medium & Deep/1 Halls 09 Medium & Deep L.wav" -P ${music}
-wget "${URL}samp/M7 - 1 Halls 09 Medium & Deep/1 Halls 09 Medium & Deep R.wav" -P ${music}
-wget "${URL}samp/M7 - 1 Halls 10 Concert Hall/1 Halls 10 Concert Hall L.wav" -P ${music}
-wget "${URL}samp/M7 - 1 Halls 10 Concert Hall/1 Halls 10 Concert Hall  M-to-S.wav" -P ${music}
-wget "${URL}samp/M7 - 1 Halls 10 Concert Hall/1 Halls 10 Concert Hall R.wav" -P ${music}
-wget "${URL}samp/M7 - 3 Rooms 34 Oakland Room/3 Rooms 34 Oakland Room L.wav" -P ${music}
-wget "${URL}samp/M7 - 3 Rooms 34 Oakland Room/3 Rooms 34 Oakland Room R.wav" -P ${music}
-wget "${URL}samp/M7 - 3 Rooms 34 Oakland Room/3 Rooms 34 Oakland Room  M-to-S.wav" -P ${music}
-wget "${URL}samp/M7 - 3 Rooms 19 Percussion Room/3 Rooms 19 Percussion Room L.wav" -P ${music}
-wget "${URL}samp/M7 - 3 Rooms 19 Percussion Room/3 Rooms 19 Percussion Room R.wav" -P ${music}
-wget "${URL}samp/M7 - 3 Rooms 19 Percussion Room/3 Rooms 19 Percussion Room  M-to-S.wav" -P ${music}
-wget "${URL}samp/M7 - 5 Ambiences 12 Clear Ambience/5 Ambiences 12 Clear Ambience  M-to-S.wav" -P ${music}
-wget "${URL}samp/M7 - 5 Ambiences 12 Clear Ambience/5 Ambiences 12 Clear Ambience R.wav" -P ${music}
-wget "${URL}samp/M7 - 5 Ambiences 12 Clear Ambience/5 Ambiences 12 Clear Ambience L.wav" -P ${music}
-wget "${URL}samp/M7 - 5 Ambiences 08 Medium & Bright/5 Ambiences 08 Medium & Bright L.wav" -P ${music}
-wget "${URL}samp/M7 - 5 Ambiences 08 Medium & Bright/5 Ambiences 08 Medium & Bright R.wav" -P ${music}
-wget "${URL}samp/M7 - 5 Ambiences 08 Medium & Bright/5 Ambiences 08 Medium & Bright  M-to-S.wav" -P ${music}
-wget "${URL}samp/M7 - 6 Spaces 02 East Church/6 Spaces 02 East Church R.wav" -P ${music}
-wget "${URL}samp/M7 - 6 Spaces 02 East Church/6 Spaces 02 East Church  M-to-S.wav" -P ${music}
-wget "${URL}samp/M7 - 6 Spaces 02 East Church/6 Spaces 02 East Church L.wav" -P ${music}
-wget "${URL}samp/M7 - 6 Spaces 03 South Church/6 Spaces 03 South Church L.wav" -P ${music}
-wget "${URL}samp/M7 - 6 Spaces 03 South Church/6 Spaces 03 South Church R.wav" -P ${music}
-wget "${URL}samp/M7 - 6 Spaces 03 South Church/6 Spaces 03 South Church  M-to-S.wav" -P ${music}
-wget "${URL}samp/.git/objects/c8/bb908408de87fa0b9462d1ea720ce7441d40aa" -P ${music}
-wget "${URL}samp/.git/objects/c8/734a8bb1b734928e74575af00694f6a5075ddf" -P ${music}
-wget "${URL}samp/.git/objects/c8/1d9104bfb2d3cd5cb951c501a37a5db37b1fa0" -P ${music}
-wget "${URL}samp/.git/objects/07/924d0bd172acc316544379ef3ce52e227dc896" -P ${music}
-wget "${URL}samp/.git/objects/07/d1cb2ac495e3a21eea9933dc8196f73eb3f03f" -P ${music}
-wget "${URL}samp/.git/objects/d7/cdfb88f7521981d3b3f3633d250d1a8ab9c265" -P ${music}
-wget "${URL}samp/.git/objects/d7/72ecbf9233d2c99434fc883a6cde4542bcec67" -P ${music}
-wget "${URL}samp/.git/objects/d7/7d064128e5a2ba473b4e5839f98b35fb9ac73e" -P ${music}
-wget "${URL}samp/.git/objects/1d/73e1b9080b0a5b92620ccf24ad089b0a1a4ad7" -P ${music}
-wget "${URL}samp/.git/objects/6d/4da2a4e56aa7660f22840da24da17aba04e60b" -P ${music}
-wget "${URL}samp/.git/objects/6d/33c52b7c7dc3e3b9d6d6bd3c3b2483127c4c85" -P ${music}
-wget "${URL}samp/.git/objects/6d/878487b75d0c73ddc58834c1e51bf596b2a77f" -P ${music}
-wget "${URL}samp/.git/objects/6d/59025c3ffcc53aa2bb2db1f9e8d1e5aae5e8df" -P ${music}
-wget "${URL}samp/.git/objects/a3/a4387a679df7a82e75196603b30dc35d5bd9c7" -P ${music}
-wget "${URL}samp/.git/objects/a3/fcd5e7d4aeb29371abf0a85c20c48e5795629e" -P ${music}
-wget "${URL}samp/.git/objects/a3/bda587c6922b86a7ca2790235a5ad3da4770a0" -P ${music}
-wget "${URL}samp/.git/objects/a3/60ecf8013b036ecbd35675fd7042e396cdff7f" -P ${music}
-wget "${URL}samp/.git/objects/ca/018d1111e499b085aaf2aa6d84607dba96b69a" -P ${music}
-wget "${URL}samp/.git/objects/ca/6a3d60d6523779c095013b83ed72b670791dd6" -P ${music}
-wget "${URL}samp/.git/objects/ca/4afd8c35336f77cbf4823455c2efbb55e83a1b" -P ${music}
-wget "${URL}samp/.git/objects/ca/e344b6014fadfe3bd20c81eda614261374a8fe" -P ${music}
-wget "${URL}samp/.git/objects/ca/cdc8e062954addeedd91b84897bd0d42effa4e" -P ${music}
-wget "${URL}samp/.git/objects/46/e9c450e0b9e3727fb730bf2c716bb67bcceb10" -P ${music}
-wget "${URL}samp/.git/objects/46/0f6b582e14ada1bb4a7da8988c9c55eced6055" -P ${music}
-wget "${URL}samp/.git/objects/4b/7d36d7ed161af02fef0fe859d4d4b316f53d57" -P ${music}
-wget "${URL}samp/.git/objects/4b/e381c0189c46a57ca7e8da00742118e3525ab7" -P ${music}
-wget "${URL}samp/.git/objects/4b/ac3c8607c6127c17e317c836d746276fd250ed" -P ${music}
-wget "${URL}samp/.git/objects/4b/8818bf3e42a715e98f31c40e68afb42212bb5f" -P ${music}
-wget "${URL}samp/.git/objects/4b/020bf4d382484ada89a26692a8aee46be2a974" -P ${music}
-wget "${URL}samp/.git/objects/4f/e8f066468eb678bf383e415e323ca491c1e422" -P ${music}
-wget "${URL}samp/.git/objects/4f/740b8cb8deaa90da9f28ed771d66386bf13567" -P ${music}
-wget "${URL}samp/.git/objects/64/053deb205c22d1cac663d9cb1b5ec81ac9d4bc" -P ${music}
-wget "${URL}samp/.git/objects/0a/4b355fd689c3ead00d38e5f62eeb4355edf544" -P ${music}
-wget "${URL}samp/.git/objects/0a/045764f7627cb9ffa322020dd4ca0d271f5299" -P ${music}
-wget "${URL}samp/.git/objects/fa/a0c4680863a84adb4ca30b12410cca29dc3269" -P ${music}
-wget "${URL}samp/.git/objects/94/257e4a6f3a3d3d4eea1dd3460ca6bd6b19a686" -P ${music}
-wget "${URL}samp/.git/objects/94/da5de5e5167412df60e75c211595cdce968c3c" -P ${music}
-wget "${URL}samp/.git/objects/94/764cc0ced2b6b52bfd51ae57a9627c5d7cb6ea" -P ${music}
-wget "${URL}samp/.git/objects/16/1fd23ec4eefb82b91e5cb52f8a2a25d74384e5" -P ${music}
-wget "${URL}samp/.git/objects/16/8e6ce1db9e100e02ec40934c278038c4e562cb" -P ${music}
-wget "${URL}samp/.git/objects/16/cdf04d8b8bdb258f1606243817e3dbc16b6d66" -P ${music}
-wget "${URL}samp/.git/objects/5f/43712f0f263b7fd4aeb870961708afeebe0fc2" -P ${music}
-wget "${URL}samp/.git/objects/1b/cae11a26412cd0a6c3ee1948ed80a75224c52f" -P ${music}
-wget "${URL}samp/.git/objects/1b/2466aa8c2c5c776827ad8fe742847df192fc5b" -P ${music}
-wget "${URL}samp/.git/objects/1b/4e5d2e60a7e1dbe018bbd842f5412737106ad4" -P ${music}
-wget "${URL}samp/.git/objects/a7/d0fde0f61c973d0995abd69939133d7f3a6529" -P ${music}
-wget "${URL}samp/.git/objects/a7/2f18a862f0b67a54190aa968f2d96d50779d41" -P ${music}
-wget "${URL}samp/.git/objects/a7/d0543c524e1dd9436e5b45baabd65ef4f96a25" -P ${music}
-wget "${URL}samp/.git/objects/f6/d388c30c91bc02dfe6a3af5b3c1faed8ba6dc8" -P ${music}
-wget "${URL}samp/.git/objects/f6/5f52f74d89223c2d7ad3462ae223aafe0777f4" -P ${music}
-wget "${URL}samp/.git/objects/5b/75b0281a3c59321d74382e2f00b4fa00d352cb" -P ${music}
-wget "${URL}samp/.git/objects/34/345ae3aa655704e0e1ce43c0b5bb9b7fcb9299" -P ${music}
-wget "${URL}samp/.git/objects/34/0a8c814a6fe34c30ee2e56309d9924ff3dba57" -P ${music}
-wget "${URL}samp/.git/objects/c4/3686400c5f5862fa63c5f07ce9cfce85f16e9d" -P ${music}
-wget "${URL}samp/.git/objects/c4/0d3331650ff3548d563d2710a5d1c9b411d8af" -P ${music}
-wget "${URL}samp/.git/objects/c4/32dbd1e228bd8751f75d16359b66fe81843bed" -P ${music}
-wget "${URL}samp/.git/objects/f8/2a9b8851587ffb8cff90134c28078cf76785eb" -P ${music}
-wget "${URL}samp/.git/objects/f8/4dda2c1d2595f1de2b58074a7c69e82ae30700" -P ${music}
-wget "${URL}samp/.git/objects/f8/09de045fda3adbe86ef4753731432a8c26bd17" -P ${music}
-wget "${URL}samp/.git/objects/f8/8b9ed08ecdbb57a99ee9f646401eb72ece4708" -P ${music}
-wget "${URL}samp/.git/objects/55/aa0fb3de3b17821ffbf4f4149462110bf3e8f1" -P ${music}
-wget "${URL}samp/.git/objects/55/424d10322fb68505152f399051a3d2f7a5d41a" -P ${music}
-wget "${URL}samp/.git/objects/55/1ccd7999b2c9a0f0d8684aaa64131b008d0da5" -P ${music}
-wget "${URL}samp/.git/objects/55/47385c9bdad8837f9cb4e1499808ea002e539d" -P ${music}
-wget "${URL}samp/.git/objects/48/e05cdbe324cb170adf488c041781cc9115de9c" -P ${music}
-wget "${URL}samp/.git/objects/60/9305e9a8b2093e38d4c14f37fe6ac62ee6f359" -P ${music}
-wget "${URL}samp/.git/objects/f7/e5967cc81ca429e14235c2e162190813d774bc" -P ${music}
-wget "${URL}samp/.git/objects/3e/86f9b304935c57d92e31045501004a15567912" -P ${music}
-wget "${URL}samp/.git/objects/3e/e65d002194171e7a779c2fe632fe3ca520fa40" -P ${music}
-wget "${URL}samp/.git/objects/2d/5a439983f381adf2cee52666a245393d6f8dbe" -P ${music}
-wget "${URL}samp/.git/objects/2d/e26e96bc630ade69ab445af0900c7a5ee605fb" -P ${music}
-wget "${URL}samp/.git/objects/2d/b5ead4233bbb4704716115b44f14015d3a85df" -P ${music}
-wget "${URL}samp/.git/objects/bf/c7664ca3c00fb943f1ce8ce0eb31e1018f8cd1" -P ${music}
-wget "${URL}samp/.git/objects/bf/41cc388c304e6fe69e00c77ac9ff994ef13a83" -P ${music}
-wget "${URL}samp/.git/objects/2b/adeffa749c58e3085ff912eec340d28be811a0" -P ${music}
-wget "${URL}samp/.git/objects/2b/d7558cb27b2aa02e29b290e3596b5aba31b95f" -P ${music}
-wget "${URL}samp/.git/objects/2b/75f90072dcd6bde71cc2e30ec3a335a32b310d" -P ${music}
-wget "${URL}samp/.git/objects/2b/2443cda9261adc742034567b9910a006a4f905" -P ${music}
-wget "${URL}samp/.git/objects/47/da26a71bfb7ecc06fda0ceb0c5fe270881983d" -P ${music}
-wget "${URL}samp/.git/objects/1c/f6f7e9a2a2a5bb72937b63f462cd4428f0a3c4" -P ${music}
-wget "${URL}samp/.git/objects/1c/00ca888e5c3929fe9e08398be0ab292f0f2dd0" -P ${music}
-wget "${URL}samp/.git/objects/1c/8f812b0b2716bb70732b1d7815c61d815e1693" -P ${music}
-wget "${URL}samp/.git/objects/1c/fe8c87050817f24d25dbf8f31fdfef9746c0dc" -P ${music}
-wget "${URL}samp/.git/objects/18/b5a735d8ecc5eab762b66c8d39bae0b8c723b3" -P ${music}
-wget "${URL}samp/.git/objects/18/400fb5e6a348694ba6b6591b87a19474c5451c" -P ${music}
-wget "${URL}samp/.git/objects/18/33d0deb55ee05e90b5bb4025a2d1e7991561e9" -P ${music}
-wget "${URL}samp/.git/objects/dd/3b84f9a06b3c874cd5d99e00fb7a5f12912c44" -P ${music}
-wget "${URL}samp/.git/objects/e8/3033d51f2147915b2b2c6360e928dc4ed8034c" -P ${music}
-wget "${URL}samp/.git/objects/e8/c40de21e2e02d0a4fd978564aa3c067efaec3b" -P ${music}
-wget "${URL}samp/.git/objects/ad/8389a473e0e05e505d278a2ca57bf42dc14340" -P ${music}
-wget "${URL}samp/.git/objects/ad/33734373e8d90d31472cc70ca4222118a398d5" -P ${music}
-wget "${URL}samp/.git/objects/ad/924cbe76788c234b97b3f764215156859025ab" -P ${music}
-wget "${URL}samp/.git/objects/f3/370108e4d106b52b1237fed9bc18c224203515" -P ${music}
-wget "${URL}samp/.git/objects/f3/ac7c9cbb833908e90ad7e0f77b796920b27ad3" -P ${music}
-wget "${URL}samp/.git/objects/f3/2dd77a81cda779936a05168c62bde75d982e3f" -P ${music}
-wget "${URL}samp/.git/objects/f3/6dde1655d01d231993289c3afdc650998f1b73" -P ${music}
-wget "${URL}samp/.git/objects/8a/8c3186a3a7ca21fd9e55c14a5b7e6bfb868fa7" -P ${music}
-wget "${URL}samp/.git/objects/8a/e094936dc4ae1985a95b315fe00e80c816cb56" -P ${music}
-wget "${URL}samp/.git/objects/c7/15f509e47324b8a18e37420b849904dba603db" -P ${music}
-wget "${URL}samp/.git/objects/c7/f8034e806d20816cf9a9835c43bab368334f22" -P ${music}
-wget "${URL}samp/.git/objects/35/b7a7a87015702c6de166f8f8827186f10a2d3e" -P ${music}
-wget "${URL}samp/.git/objects/35/97e86a255843dbd8eb475ab7c899a8dbd175cc" -P ${music}
-wget "${URL}samp/.git/objects/35/32051f94f3b6291599cdc1cfcd9b91fb630d35" -P ${music}
-wget "${URL}samp/.git/objects/35/1b98f57eefd73ab74aa8a6175780b8218e3ff7" -P ${music}
-wget "${URL}samp/.git/objects/35/17aaaa4ef9df8e09fe27bf8e07e056d6a5de91" -P ${music}
-wget "${URL}samp/.git/objects/9f/509c56797f9226d2690fae5aea8430200fca32" -P ${music}
-wget "${URL}samp/.git/objects/9f/4ef1a4290cb9c62378f0994203c961f3f51de8" -P ${music}
-wget "${URL}samp/.git/objects/9f/79ee537cb1276a14fa3844404a4f9c2f3cd12c" -P ${music}
-wget "${URL}samp/.git/objects/c3/ad69eda39be3f0665cd713e5789094afc1135b" -P ${music}
-wget "${URL}samp/.git/objects/c3/26b1c9c7a1e0b440fe311f7864b4d82f9cb7ab" -P ${music}
-wget "${URL}samp/.git/objects/b2/960ef831fef69f94b5d558696ae0c462b0b7fa" -P ${music}
-wget "${URL}samp/.git/objects/0d/3076eba6a0c9d81af609d3f74e3223483f8019" -P ${music}
-wget "${URL}samp/.git/objects/0d/8dd343a3f8ebd47f0704d22b751f29bffb3803" -P ${music}
-wget "${URL}samp/.git/objects/0d/0debe62ed866fc25e97734712e6da57681759f" -P ${music}
-wget "${URL}samp/.git/objects/8e/0a938d4471cedab534eaef4b9e22c39bad3b54" -P ${music}
-wget "${URL}samp/.git/objects/b1/efd620ea6b2f572c324ea4b714bc9123f630d7" -P ${music}
-wget "${URL}samp/.git/objects/8b/afd1100fff88bb2ebef35685e5d2c91407e8c3" -P ${music}
-wget "${URL}samp/.git/objects/8b/c7a5dcf343df25ad45bc9f6f4f89e4fd272a9a" -P ${music}
-wget "${URL}samp/.git/objects/8b/97052a3b65b1f53d7871fe97416b7120105a65" -P ${music}
-wget "${URL}samp/.git/objects/ba/1677d62e1bae80dbcf9c39f9654a1636bed96c" -P ${music}
-wget "${URL}samp/.git/objects/ba/9b99eb85e88d356fe89d612d903f40e76c8402" -P ${music}
-wget "${URL}samp/.git/objects/f5/3bad9b96b7ff5ab92faa1b2b0081b4077a3377" -P ${music}
-wget "${URL}samp/.git/objects/f5/c1b08ed73fedf33f603961f846ad63fcd1ea84" -P ${music}
-wget "${URL}samp/.git/objects/03/c5dced230461360c0c109cc05023ebac1fc27f" -P ${music}
-wget "${URL}samp/.git/objects/03/32a652e62ee385989369ca67cc90e4f4979f0e" -P ${music}
-wget "${URL}samp/.git/objects/03/cae8ec702f7c77a4e19050188e8d93d0db4cbf" -P ${music}
-wget "${URL}samp/.git/objects/03/721b7d9e15b69cbfef8a878e6e2bde55d7858e" -P ${music}
-wget "${URL}samp/.git/objects/d8/e09ad143ce2861597d452a0d4746a76485f4d0" -P ${music}
-wget "${URL}samp/.git/objects/d8/0637bc6bb20cf3cd5af01cd6aacd8fa94cd734" -P ${music}
-wget "${URL}samp/.git/objects/71/59a81b7d7f011e2ca281f05846a3acd602269a" -P ${music}
-wget "${URL}samp/.git/objects/1e/fb3061251f0027a45e1bc1517cd3aa2585e69a" -P ${music}
-wget "${URL}samp/.git/objects/1e/f65ff14723da4c0e598687aacf5623d75a79d7" -P ${music}
-wget "${URL}samp/.git/objects/1e/9b86418fbb9a5bf4f0c3ae56b6534e2ee379c8" -P ${music}
-wget "${URL}samp/.git/objects/93/5ea6553d7d386de4d15d453cdd1e7fab0ebb2d" -P ${music}
-wget "${URL}samp/.git/objects/93/4a20c2ae35fe48219e79464acc6e2783edd785" -P ${music}
-wget "${URL}samp/.git/objects/93/80cd48280e151b6193d8ebd9a535083dc0c218" -P ${music}
-wget "${URL}samp/.git/objects/61/b55756af574c99edfac549761c3be578d7df96" -P ${music}
-wget "${URL}samp/.git/objects/61/e19d84f3f35b0ddfdc118bc15bf2cff1667e4c" -P ${music}
-wget "${URL}samp/.git/objects/2f/5aab3e76d582537ab1d12519ebae19811ac18a" -P ${music}
-wget "${URL}samp/.git/objects/2f/483fdeb3f7512abd4b7aeb28840bbb69882baf" -P ${music}
-wget "${URL}samp/.git/objects/2f/255a1e28a7ac918887071674c541ab353afb2d" -P ${music}
-wget "${URL}samp/.git/objects/2f/800ed9019c54fc88466afeac4b633bb7ae33e0" -P ${music}
-wget "${URL}samp/.git/objects/44/fa9d33d827b206cd633cc5726166e92191da81" -P ${music}
-wget "${URL}samp/.git/objects/44/859f64ea62afd6fb41ea2ec8986471c4585c0c" -P ${music}
-wget "${URL}samp/.git/objects/44/d000558ed44327df425fef843f932654df0d47" -P ${music}
-wget "${URL}samp/.git/objects/c0/a87e5adebc3b2ea0f07cbc2e3df247bb12284b" -P ${music}
-wget "${URL}samp/.git/objects/c0/549fbbcf20029f901f89841419880d3ba2f397" -P ${music}
-wget "${URL}samp/.git/objects/c0/501e6aa184957ca3fdfd0249673a0c97cd55c0" -P ${music}
-wget "${URL}samp/.git/objects/c0/670784f138d1f5fa86dbbe43bdbbbeb7c6065f" -P ${music}
-wget "${URL}samp/.git/objects/42/d9fbf0dc28abd2987946c122ed17eb6ba3af39" -P ${music}
-wget "${URL}samp/.git/objects/42/f0239acc15d68d307d48c7122084541f6f7a03" -P ${music}
-wget "${URL}samp/.git/objects/42/0008480469885c4bcf170ca7910622b0cbb9f4" -P ${music}
-wget "${URL}samp/.git/objects/e7/85c6fdabbdfe95dcaddb1f8678d98341c0ca84" -P ${music}
-wget "${URL}samp/.git/objects/e7/fe87dbc975c22bff7fed83b226c8feefaa1f64" -P ${music}
-wget "${URL}samp/.git/objects/e5/d9027785020264b473305681102f0a70fef79e" -P ${music}
-wget "${URL}samp/.git/objects/e5/d932bfb38c8c23924be0a2ac55db9b460aa47b" -P ${music}
-wget "${URL}samp/.git/objects/00/01c783fc9bcdb577c3f2551c4173dbad5035db" -P ${music}
-wget "${URL}samp/.git/objects/00/930e9073bab06ae0b03063953d361de801473d" -P ${music}
-wget "${URL}samp/.git/objects/00/0b16640b1c473affbace92938847ee1a03aaaf" -P ${music}
-wget "${URL}samp/.git/objects/c9/b1f211bf51d6af472e0e69ee312f419caf1a4a" -P ${music}
-wget "${URL}samp/.git/objects/c9/f8a2cbd35ea1174e49a853454cfd9a220bf94f" -P ${music}
-wget "${URL}samp/.git/objects/c9/d003c0c3b08ab915adf937c9186b734525d1c8" -P ${music}
-wget "${URL}samp/.git/objects/a5/f74173378ab39f1aa33004eb247b191db2a42b" -P ${music}
-wget "${URL}samp/.git/objects/c6/9ef7525fdfd57a1387814f074dcf51954b8bdd" -P ${music}
-wget "${URL}samp/.git/objects/c6/32c7f4f54b6e3fd1b20cc65d9a78e5dd77b924" -P ${music}
-wget "${URL}samp/.git/objects/c6/bc01faad8cad00ac6bbe173aa311182bb5a087" -P ${music}
-wget "${URL}samp/.git/objects/17/2a257e4b0d4fa7688c4f929c77ecf9a427db29" -P ${music}
-wget "${URL}samp/.git/objects/2c/af418669bbe34674c759cf318b935501a38bb5" -P ${music}
-wget "${URL}samp/.git/objects/2c/eff52f1008f264a6a115c0801e19b299f36b49" -P ${music}
-wget "${URL}samp/.git/objects/87/c89be2ac60a13167fdbf3b478a8ef30ba7a3a0" -P ${music}
-wget "${URL}samp/.git/objects/87/34526c65b8f241d0a04dfbe6d2077df9f03457" -P ${music}
-wget "${URL}samp/.git/objects/87/85e8067f6cff49a105c6ba839fafb6d76d0b4d" -P ${music}
-wget "${URL}samp/.git/objects/87/67b945bdaf2056a280c186b139032c8fb7c419" -P ${music}
-wget "${URL}samp/.git/objects/87/e9d9db09cb26bc4e4635e26bd3e8c97c7b2a21" -P ${music}
-wget "${URL}samp/.git/objects/3b/5c8b289967edaf573deacdfc0f70284053a9ba" -P ${music}
-wget "${URL}samp/.git/objects/3b/02160c477e1fe1630dd347dae43cbcf1535286" -P ${music}
-wget "${URL}samp/.git/objects/3b/e7c475cd47499688ada19f5e654284887c03d8" -P ${music}
-wget "${URL}samp/.git/objects/91/9c823a8ececf6fe5a4f1643d20759ce98d7794" -P ${music}
-wget "${URL}samp/.git/objects/01/2c9b5d5d3eb18afb69252d22991d5efb0c2024" -P ${music}
-wget "${URL}samp/.git/objects/98/71aa0d29cbc5127abaeb20b5cab359b6430c9c" -P ${music}
-wget "${URL}samp/.git/objects/98/652e129d2db84e34b59ba2c40f2cca148c04c8" -P ${music}
-wget "${URL}samp/.git/objects/7a/d821f438cb84bf584f531cdb39b73e328542ea" -P ${music}
-wget "${URL}samp/.git/objects/7a/c2cf2f9510676cba8d8d98093357acecc26df2" -P ${music}
-wget "${URL}samp/.git/objects/7a/56f07457854467988a7601a63ecb4b240b0fa5" -P ${music}
-wget "${URL}samp/.git/objects/7a/0a78124ed18230d7d69deb8059ffce217a21b9" -P ${music}
-wget "${URL}samp/.git/objects/75/4db0db1e0ac2a1fea70b0e554c55d450c64191" -P ${music}
-wget "${URL}samp/.git/objects/75/a1c506a6900048ffd7da9f351fb2997acb8fae" -P ${music}
-wget "${URL}samp/.git/objects/75/855938c95521c1db6a75ec4992e150753d3f9c" -P ${music}
-wget "${URL}samp/.git/objects/80/4019958ee6c11db0326ec5326f52baa3041f78" -P ${music}
-wget "${URL}samp/.git/objects/80/a01f4ddaa792ed653d19d47176f71c64a1ddd4" -P ${music}
-wget "${URL}samp/.git/objects/70/f846b0dddca3d4c3d1e93f8916b6acd976821d" -P ${music}
-wget "${URL}samp/.git/objects/24/6f52d1a24e7a13a6a864a0340466d38acde444" -P ${music}
-wget "${URL}samp/.git/objects/7d/e81c3de4250502ca13c494912b5672512771c6" -P ${music}
-wget "${URL}samp/.git/objects/7d/6a50d3f9234f02f9fd875b3f904bec937d0792" -P ${music}
-wget "${URL}samp/.git/objects/57/8842a99d4e570ee355cde7caf7d427a4ccfa56" -P ${music}
-wget "${URL}samp/.git/objects/57/739c145cd5bc18fab814fb1fe5d8c7c3a33613" -P ${music}
-wget "${URL}samp/.git/objects/b8/782035fb08576f0793e086084fce5c6a32d52d" -P ${music}
-wget "${URL}samp/.git/objects/b8/1ad59b03ebf08b3bd629261290258eb7687c7c" -P ${music}
-wget "${URL}samp/.git/objects/b8/fc4866ee480d182463fce4c678ef0eb782a2d6" -P ${music}
-wget "${URL}samp/.git/objects/65/123a1d0b24ca275486df0a1081c1d50d863640" -P ${music}
-wget "${URL}samp/.git/objects/65/22bebac2acc98d324f42d8ca36b3da1bfb10ae" -P ${music}
-wget "${URL}samp/.git/objects/5e/077543e4ef84bb4d263b1f8b502bfe6247aaf6" -P ${music}
-wget "${URL}samp/.git/objects/cf/08e08dead0c98ba38bdcf8302f63228fc0cdb9" -P ${music}
-wget "${URL}samp/.git/objects/cf/1b9c2b733da2bd9da293b61d61a40b0f53c701" -P ${music}
-wget "${URL}samp/.git/objects/cf/d16e60299c6ad22a607f41a484c1d83d09548b" -P ${music}
-wget "${URL}samp/.git/objects/3d/bf9ad7b32d6ad2463a86b6e0c152a1682600bc" -P ${music}
-wget "${URL}samp/.git/objects/06/51c4c8c9eeec806d19dd2983c255961e006187" -P ${music}
-wget "${URL}samp/.git/objects/14/d9db7c3c8599cddac4aabc05607a54bdcacd78" -P ${music}
-wget "${URL}samp/.git/objects/14/a89146e77360893f515ffb5f352e3a28dd0576" -P ${music}
-wget "${URL}samp/.git/objects/6f/4cc6985a0323e718e0fefafc3a3361bf791de9" -P ${music}
-wget "${URL}samp/.git/objects/6f/aefda4f13a95abdd73298718713d5f54562a2f" -P ${music}
-wget "${URL}samp/.git/objects/6f/36ffa012ed763335fffa7f647f7cf65b63b69d" -P ${music}
-wget "${URL}samp/.git/objects/68/3cb7b5d7b447b4d49b0b748c9c01f26a207e81" -P ${music}
-wget "${URL}samp/.git/objects/68/cc6dd08b24d1c5f42922e87f22554bc70fc0fe" -P ${music}
-wget "${URL}samp/.git/objects/63/ed7f74b6ec60be67e9a2380cec66d699523e4c" -P ${music}
-wget "${URL}samp/.git/objects/63/c3fa4da9fca2bfe41a760e0644166eb0f673a9" -P ${music}
-wget "${URL}samp/.git/objects/63/23c266a449f5c01609217e661b958d31e26cd3" -P ${music}
-wget "${URL}samp/.git/objects/bd/8bf8cc2e8b6221908489037c136d284527ea5f" -P ${music}
-wget "${URL}samp/.git/objects/bd/e317897f9115de707500694a776f620d6cb80b" -P ${music}
-wget "${URL}samp/.git/objects/11/fc7945352ca888e72f1a051fbafb022d1c8604" -P ${music}
-wget "${URL}samp/.git/objects/11/67d3f0e46f70d1b0125c8a5346fbb7502fce43" -P ${music}
-wget "${URL}samp/.git/objects/11/78d1a1c00b89e626ed52e43557c5d69f287fe0" -P ${music}
-wget "${URL}samp/.git/objects/d4/89a10d2f38387d5ac1848997a30cebd0865d9d" -P ${music}
-wget "${URL}samp/.git/objects/ce/ecffaf9cd7c5a8d06e0dcd17938da736065e69" -P ${music}
-wget "${URL}samp/.git/objects/ce/315aef9043b643b76ca540dd6973a2a6cc4f34" -P ${music}
-wget "${URL}samp/.git/objects/b9/d514d65e49f6ba34b59aad4002608832415816" -P ${music}
-wget "${URL}samp/.git/objects/bb/7437a08301dac0d6da23db8109d59d75687ec1" -P ${music}
-wget "${URL}samp/.git/objects/c1/5967463fc94604d51423702bac1512281f67a7" -P ${music}
-wget "${URL}samp/.git/objects/c1/a34730bb32ea3aa2f81e5da188a27b93cb55f7" -P ${music}
-wget "${URL}samp/.git/objects/51/7031b2b42ea64a8a33dad739aaeb94e9c80434" -P ${music}
-wget "${URL}samp/.git/objects/51/5ff8ce5d382f43d6fc6f901abbc7acf634e9ad" -P ${music}
-wget "${URL}samp/.git/objects/c2/e36031344e94277f5c636b9c9b7c538c7f8060" -P ${music}
-wget "${URL}samp/.git/objects/c2/5c6c727707597b32aab00d6d2ed1461acd66f8" -P ${music}
-wget "${URL}samp/.git/objects/c2/521ed875247f1b4816e9204689e39fc6baf6d5" -P ${music}
-wget "${URL}samp/.git/objects/fb/c283763fc10c9bfae569572879bdaebc668105" -P ${music}
-wget "${URL}samp/.git/objects/fb/6156b3b9d4b29ce661bd231c1ce3db1775409a" -P ${music}
-wget "${URL}samp/.git/objects/fb/8c2f403e690ac8826912230772616af17b1eac" -P ${music}
-wget "${URL}samp/.git/objects/25/00ea33f5e19bb0b381e4b77c85231706952302" -P ${music}
-wget "${URL}samp/.git/objects/25/f9f0f827612bf7b22acad8b2d44b3364737b7e" -P ${music}
-wget "${URL}samp/.git/objects/89/7fbeaa8b2e174667e8ec541663de5d3a44dfd4" -P ${music}
-wget "${URL}samp/.git/objects/89/7a17871cc03e524244530004680b865395494e" -P ${music}
-wget "${URL}samp/.git/objects/ee/b77db02dfe06e2b6715576d3efade9d2087850" -P ${music}
-wget "${URL}samp/.git/objects/ee/ca9c29c77fe84930ab0766ed9c448d42462e82" -P ${music}
-wget "${URL}samp/.git/objects/ee/85b7dc70fb6380e67abcb3c50c9b2373f5bc0f" -P ${music}
-wget "${URL}samp/.git/objects/ee/469751b8ca7ec4124c0b071bd8e8c5fd9f7986" -P ${music}
-wget "${URL}samp/.git/objects/7b/1d652c68342f615c0242de89936bd1f6c51544" -P ${music}
-wget "${URL}samp/.git/objects/7b/eb60817b8e9e82ab1472d9f95a2b047c43c64e" -P ${music}
-wget "${URL}samp/.git/objects/7b/d8153b060d088c92be0ac3bb9fbec14e85667f" -P ${music}
-wget "${URL}samp/.git/objects/7b/ba4295627598e5bafa432cc01e5b73f6e64d04" -P ${music}
-wget "${URL}samp/.git/objects/86/e979d000e22fe84ad26ed2be15bfdbd02719ec" -P ${music}
-wget "${URL}samp/.git/objects/86/a25b22ea672fbd56a5d4aaf64d47a8b4ff1b14" -P ${music}
-wget "${URL}samp/.git/objects/86/281f2e422f6cd3bb7f6d833d24e4f7b97bec55" -P ${music}
-wget "${URL}samp/.git/objects/86/a943cef22d12cb9123e4afc26b8c8b7065622b" -P ${music}
-wget "${URL}samp/.git/objects/86/b7212915f3b955236427852426557a8d5c2d80" -P ${music}
-wget "${URL}samp/.git/objects/53/2b6ccf880d2bf19baf5d961c427649eb312b2a" -P ${music}
-wget "${URL}samp/.git/objects/53/fb6c719062e6998a719a89306e8e29ced50e21" -P ${music}
-wget "${URL}samp/.git/objects/53/0703a598f0c7494ef7087f8537982c4438bf7c" -P ${music}
-wget "${URL}samp/.git/objects/53/5184403afb698799429dfb6096d9faac2d7156" -P ${music}
-wget "${URL}samp/.git/objects/53/242187c65fb611f2b368b81a02d5bce0408f67" -P ${music}
-wget "${URL}samp/.git/objects/53/03d57a6eb164658e67251cf0873a3a532776e8" -P ${music}
-wget "${URL}samp/.git/objects/53/083b6915f1e529f6ba8d851ba82717b5d01920" -P ${music}
-wget "${URL}samp/.git/objects/fe/58ecef292568a5ff0a4e094224d945523508fb" -P ${music}
-wget "${URL}samp/.git/objects/fe/1e9981c98762f647cefb51ad989ef5cd6a4a26" -P ${music}
-wget "${URL}samp/.git/objects/04/d715f67b067cd522f6e0b4c86c173084bb298d" -P ${music}
-wget "${URL}samp/.git/objects/db/18dd902cdfa8577c4a3b97afa6ec426c440a8b" -P ${music}
-wget "${URL}samp/.git/objects/3f/058fc2d6a6569c888f90c39d057195e46580e3" -P ${music}
-wget "${URL}samp/.git/objects/3f/b9bad23fabd1199f71aff1f2ce371713475eb2" -P ${music}
-wget "${URL}samp/.git/objects/a9/6670c4a58a370ac3fab148cef28c8936805182" -P ${music}
-wget "${URL}samp/.git/objects/a9/d533cd0fe168bf2064f86a7b5667e75239262d" -P ${music}
-wget "${URL}samp/.git/objects/a9/4525d070354e03711fecb7a34c5780a2f205a6" -P ${music}
-wget "${URL}samp/.git/objects/ed/46629af514f2106dfc74165815d468fbdf03d4" -P ${music}
-wget "${URL}samp/.git/objects/ed/5d967c5cd31d4e4f90096c617ad7570ef5b4d9" -P ${music}
-wget "${URL}samp/.git/objects/96/713c51aeeefab8256f881b212718dcfa6b1b4b" -P ${music}
-wget "${URL}samp/.git/objects/96/985df1467ccfd060d96eaf36094f90280f9065" -P ${music}
-wget "${URL}samp/.git/objects/2a/b1d675caae713222b36fe7dc8bb760ad828caa" -P ${music}
-wget "${URL}samp/.git/objects/2a/9c554f24ae741c9cefe5c8f27d2caa064775c1" -P ${music}
-wget "${URL}samp/.git/objects/82/d0ae764946b71f9bafe92863ff679a3898300d" -P ${music}
-wget "${URL}samp/.git/objects/82/d7f23ba56787aebe206d5119b1e33ed3f07081" -P ${music}
-wget "${URL}samp/.git/objects/82/af01636ed2661fe554e04a239ef9e7157caa77" -P ${music}
-wget "${URL}samp/.git/objects/99/9426da53956a3fdd9a923d8ff70c335e3c6040" -P ${music}
-wget "${URL}samp/.git/objects/99/11167d5a37761a6aed3f000fd9de32f13c1de1" -P ${music}
-wget "${URL}samp/.git/objects/ae/631b07419eab91b2d3b2858d15fbcbc2ae2b90" -P ${music}
-wget "${URL}samp/.git/objects/ae/4233d2f34eaed3d93ddd9ce4599779b26e26d3" -P ${music}
-wget "${URL}samp/.git/objects/ae/9f0988a18e852f3373794a42aa946951e85a4b" -P ${music}
-wget "${URL}samp/.git/objects/36/55db6f50911e3031f5c2d8b09675d330f3ebf9" -P ${music}
-wget "${URL}samp/.git/objects/ef/5e06a35eb36d5f4af8247b79e4bfade67d8c4e" -P ${music}
-wget "${URL}samp/.git/objects/ef/77687ca9c646f109c07c78949ad078125411c9" -P ${music}
-wget "${URL}samp/.git/objects/ef/dedd1e6cf1b2cec81d88b90c247140ec2635fc" -P ${music}
-wget "${URL}samp/.git/objects/29/57f6061e1f9bf38255a804892179b26d9d81fe" -P ${music}
-wget "${URL}samp/.git/objects/0b/d44378dd60f03afd2f51a0cde1b8c27f500300" -P ${music}
-wget "${URL}samp/.git/objects/0b/49acfc5e199c52a116aec3cd413ae6ce2336c2" -P ${music}
-wget "${URL}samp/.git/objects/0b/e1a770e5bc29399dc8319d1002abe7ee6714c2" -P ${music}
-wget "${URL}samp/.git/objects/0b/a65293f7aecbf30733d12ad1fe413a6a98201d" -P ${music}
-wget "${URL}samp/.git/objects/f9/fe85ac9dc054871413f16bd9b1dd58645a2782" -P ${music}
-wget "${URL}samp/.git/objects/f9/9049da562a7285d6b4d992c995d336720f0969" -P ${music}
-wget "${URL}samp/.git/objects/f9/37d5692125f8fd80b9f25d39dbba170b232991" -P ${music}
-wget "${URL}samp/.git/objects/69/d37d542222cdfe7f09864b3c955e774e309ece" -P ${music}
-wget "${URL}samp/.git/objects/69/f93578c50f08613191f3c554457d591105330e" -P ${music}
-wget "${URL}samp/.git/objects/a6/774c660dcd8e9e27f4dfdf627c667779cc87ed" -P ${music}
-wget "${URL}samp/.git/objects/a6/047c1789a93e4b4f7f87487aa7439bcd636bef" -P ${music}
-wget "${URL}samp/.git/objects/b6/6e4bf3657d19954e1b657e0e90655ee0a1e91f" -P ${music}
-wget "${URL}samp/.git/objects/b6/e846c27acbf358af3e6032124b610eed096425" -P ${music}
-wget "${URL}samp/.git/objects/b6/350881f73f077f94508fff1be6c606ebfa546d" -P ${music}
-wget "${URL}samp/.git/objects/9e/6369d24161b2bf9d3675f02545ec9494ce6dac" -P ${music}
-wget "${URL}samp/.git/objects/9e/a7aa33dba5b51e9b6665ef593fbe8bf7f188a8" -P ${music}
-wget "${URL}samp/.git/objects/9e/20fb456aea451ba4d3436879b45fdfc89a0ef8" -P ${music}
-wget "${URL}samp/.git/objects/3c/6d7ef08557cbf1e9632b6ad0485bc5d784a489" -P ${music}
-wget "${URL}samp/.git/objects/3c/43a15d51562386dc05ab266e00c39a9b459735" -P ${music}
-wget "${URL}samp/.git/objects/78/fb8aa2710d5ce525a84b079d30f111dbed162d" -P ${music}
-wget "${URL}samp/.git/objects/78/b06466e423efb49957ff8ad82b717c022e5827" -P ${music}
-wget "${URL}samp/.git/objects/aa/8cfaaa3b379090160464f1f3767c65065d2ca2" -P ${music}
-wget "${URL}samp/.git/objects/aa/2f808ca8dcad805944da13976d91e6e88bf6ac" -P ${music}
-wget "${URL}samp/.git/objects/41/4de535a6d21d96ba427d41524c1ae9b47b4742" -P ${music}
-wget "${URL}samp/.git/objects/41/e3575c82e707e761e2bf9aa4f1691fdfa3932b" -P ${music}
-wget "${URL}samp/.git/objects/d2/081ed43f5d1e983d74199c0163edd23ac00fcb" -P ${music}
-wget "${URL}samp/.git/objects/20/a20a9574ff4cb8c37a89b3cffa504b9f7d8a32" -P ${music}
-wget "${URL}samp/.git/objects/20/6bf564d6bffe36495361ff22bb45a657f1ae54" -P ${music}
-wget "${URL}samp/.git/objects/76/3dc5a5ec2a16a29f055a46d69042de36d1a4da" -P ${music}
-wget "${URL}samp/.git/objects/76/625a79b07a511e5a96f535a9e3ca640ef1860d" -P ${music}
-wget "${URL}samp/.git/objects/d9/19d09e570d00f10c18834ea58db61f1eb66138" -P ${music}
-wget "${URL}samp/.git/objects/d9/449a8a040ef9ec39ab91d50f3bb5f783baf73c" -P ${music}
-wget "${URL}samp/.git/objects/26/52a708a93f0564202126707c8763be72d98349" -P ${music}
-wget "${URL}samp/.git/objects/d0/2be808f0f1fe6fc553c952e9ad54038889ceea" -P ${music}
-wget "${URL}samp/.git/objects/d0/992664a1bfcef41e07f825104e5ec77e0be505" -P ${music}
-wget "${URL}samp/.git/objects/a0/4efac24e3a4d6ee2a41f780417364ae2191f0c" -P ${music}
-wget "${URL}samp/.git/objects/a0/917a64f83c4be2de36b131331d948b67a69cc1" -P ${music}
-wget "${URL}samp/.git/objects/a0/0f48971edead7ab674729fca0e06e423215ff7" -P ${music}
-wget "${URL}samp/.git/objects/a4/805cbeff0355d4414216238cf69d75d8c1a4fb" -P ${music}
-wget "${URL}samp/.git/objects/a4/3329021132b94fee726f84e1ec09b2773bbea5" -P ${music}
-wget "${URL}samp/.git/objects/a4/01a1419817b2d09a052be035d716d83d6a5141" -P ${music}
-wget "${URL}samp/.git/objects/9d/413bc24e12aaa58b1aa8324e82e9bf6b568031" -P ${music}
-wget "${URL}samp/.git/objects/9d/b97f59e47915600841b70ca71347e172be96ec" -P ${music}
-wget "${URL}samp/.git/objects/9d/d64443cb78d80f41470162a61e211b1ab4d999" -P ${music}
-wget "${URL}samp/.git/objects/b4/daba9b46069d39d6a8313041ffa23425b2382a" -P ${music}
-wget "${URL}samp/.git/objects/bc/5c99f3a75ad729ea95baab4ecba27cfdd6c984" -P ${music}
-wget "${URL}samp/.git/objects/bc/ab7a3cae1a311d2a906152a18754b783b80413" -P ${music}
-wget "${URL}samp/.git/objects/4c/39b2c72a7d66bf680955f57f0cc353fc60bbed" -P ${music}
-wget "${URL}samp/.git/objects/4c/6622c46c208450636ad8d28490ad7794b3b9f5" -P ${music}
-wget "${URL}samp/.git/objects/d1/2110a997808b06234e2ceb5c6df8e005537b44" -P ${music}
-wget "${URL}samp/.git/objects/ab/e4348dc50744373821c6d80252dfbe7b75fa3d" -P ${music}
-wget "${URL}samp/.git/objects/ab/d9617fa82cb23ad7bd40bd2a92990ddab22bac" -P ${music}
-wget "${URL}samp/.git/objects/6e/65176e086d11e4e1b4bce9310327fda415b2f5" -P ${music}
-wget "${URL}samp/.git/objects/be/ba1e32a9815ee47326cebf01d056aeb5164d07" -P ${music}
-wget "${URL}samp/.git/objects/be/45890dac90a49f9ad334e8b1b95efbfef5a78c" -P ${music}
-wget "${URL}samp/.git/objects/cc/6042bba18a574abd61db34219e0c3e77e53f48" -P ${music}
-wget "${URL}samp/.git/objects/13/2551073df8c653284d5276cc93ee51d673b60b" -P ${music}
-wget "${URL}samp/.git/objects/13/5e5f9240ba66366e3fa08b9ea175c11f45ba45" -P ${music}
-wget "${URL}samp/.git/objects/2e/49c83e24572c487ebd6e5f3d2ba7fc55db5eea" -P ${music}
-wget "${URL}samp/.git/objects/21/33ff66fbbd21d91c6c445fbb7d50cf49bf5283" -P ${music}
-wget "${URL}samp/.git/objects/66/7791660096dc78fc4842d08683f60f8acc48ae" -P ${music}
-wget "${URL}samp/.git/objects/66/ed35fa691c38983927adb665212ac08c7909b0" -P ${music}
-wget "${URL}samp/.git/objects/09/4c04c291855acd073953452068ce6b3926e896" -P ${music}
-wget "${URL}samp/.git/objects/09/acb89fb89af1933b8d2345eb175301e3f80e30" -P ${music}
-wget "${URL}samp/.git/objects/09/b6f08581efd063dc913fd2e638159a4e6fdf62" -P ${music}
-wget "${URL}samp/.git/objects/cb/a369b444b2d84197b694d553bb5864dc529ef8" -P ${music}
-wget "${URL}samp/.git/objects/cb/c3eaa13aa76d3463b54cd646ebee96cd6c6a41" -P ${music}
-wget "${URL}samp/.git/objects/cb/3123472b65ceb6f5165449a39e50ad68dca1c9" -P ${music}
-wget "${URL}samp/.git/objects/cb/d39536df222385d07234dcaeaaf0203519382e" -P ${music}
-wget "${URL}samp/.git/objects/da/8b2193e31dfd27cbc528f670109a5440e7a743" -P ${music}
-wget "${URL}samp/.git/objects/fc/376277b1232a1648dd84a11c792c47fb4ca9dd" -P ${music}
-wget "${URL}samp/.git/objects/b3/88756cf824e35bf16e0751a25412415d0f53a6" -P ${music}
-wget "${URL}samp/.git/objects/b3/5302a0fa1eed370a9343373e5a8c5aed0e8a5d" -P ${music}
-wget "${URL}samp/.git/objects/b3/970d88be7a9ed3b135b90f2ba5df2ecc430a45" -P ${music}
-wget "${URL}samp/.git/objects/b3/55f3c689f03246cf1f765258a9d61f46432b80" -P ${music}
-wget "${URL}samp/.git/objects/0e/7536bf1a82ab906592c79f56c632a505cf38c2" -P ${music}
-wget "${URL}samp/.git/objects/0e/e652e02db8632ab52900d29c506b09f1a14f42" -P ${music}
-wget "${URL}samp/.git/objects/0e/2685f6df24e6ab203b8df902860793dbd9e9b4" -P ${music}
-wget "${URL}samp/.git/objects/1f/4b9a9bef5a777aa825c97df5f66bbe3f104457" -P ${music}
-wget "${URL}samp/.git/objects/1f/b39cc59ab7fd52f8e45eda986177a4f59a099b" -P ${music}
-wget "${URL}samp/.git/objects/1f/3b3f8d1085247f2f6477b0874996b672f17bc0" -P ${music}
-wget "${URL}samp/.git/objects/77/086d40e7c42835c7f232a022d9b22e9d1243de" -P ${music}
-wget "${URL}samp/.git/objects/77/68fe1c20f8fe4d2d429ba123a9e0fb5af74485" -P ${music}
-wget "${URL}samp/.git/objects/77/24e935fc33c47f86dc905c5fac65cc2a23fc3d" -P ${music}
-wget "${URL}samp/.git/objects/31/b786e42066c575c5f14e22288ab2d28c44697e" -P ${music}
-wget "${URL}samp/.git/objects/31/c8836ff7d655eeb41f45fd161a616af55f22d8" -P ${music}
-wget "${URL}samp/.git/objects/15/e55c42741f6c67337557ec82f5dde650189955" -P ${music}
-wget "${URL}samp/.git/objects/67/307818f217766319c5bd4b603163515786488a" -P ${music}
-wget "${URL}samp/.git/objects/67/540b7751fc16a1208e6ae0ec3108d2e0a08891" -P ${music}
-wget "${URL}samp/.git/objects/95/cb3e7eca872cf1543f5b762d1948234739386c" -P ${music}
-wget "${URL}samp/.git/objects/95/ae016fa2b899f430eca0fc7bf9f5ea90af2444" -P ${music}
-wget "${URL}samp/.git/objects/95/ac30fe0af9cde6743404ac370011144d2b48bc" -P ${music}
-wget "${URL}samp/.git/objects/95/696bb6ebecef014d67bc212e9edfc6b832bd63" -P ${music}
-wget "${URL}samp/.git/objects/e2/51ca1bd08d0e73b358c4549bd7b5c652cbc8e3" -P ${music}
-wget "${URL}samp/.git/objects/e2/0f383167af88b8f2aba6306e01998819d28fb9" -P ${music}
-wget "${URL}samp/.git/objects/c5/20ce8e76afaab84b4d2057fd0bf8e03b8b34e5" -P ${music}
-wget "${URL}samp/.git/objects/c5/1ea2f029cb72d12345840caaad8655af4c0c8f" -P ${music}
-wget "${URL}samp/.git/objects/c5/66abb65f030459a8ed27a331d1288ed658faf4" -P ${music}
-wget "${URL}samp/.git/objects/6b/908b0e3ee702056b4d8db2786178cddf6bc7b0" -P ${music}
-wget "${URL}samp/.git/objects/6b/98b03b2f2d240d365e3d43493af6f7a7932199" -P ${music}
-wget "${URL}samp/.git/objects/88/82c999c1e2729dc0bf11bddefa8768d878e05d" -P ${music}
-wget "${URL}samp/.git/objects/88/9fad606e705f4b90395f85574c2ead7a1a7d99" -P ${music}
-wget "${URL}samp/.git/objects/88/d856861597fbc65a1d38eb49b118e298e40d39" -P ${music}
-wget "${URL}samp/.git/objects/5a/eda325ff9f905125ed968bef9b5e8c3a226baf" -P ${music}
-wget "${URL}samp/.git/objects/5a/f50cf20171c1bd5389d8dacb36ea2b6342855c" -P ${music}
-wget "${URL}samp/.git/objects/cd/1389600acc123074f036c1aa2f1e2ca3294f11" -P ${music}
-wget "${URL}samp/.git/objects/cd/6a098a1581ef5ca19d2d6c6e6dac23787e1028" -P ${music}
-wget "${URL}samp/.git/objects/79/6f8b8766e88f9866cbf897aa596b4e93d5f9b2" -P ${music}
-wget "${URL}samp/.git/objects/79/75a84deada4d1a0d1254134d5d559a404712a3" -P ${music}
-wget "${URL}samp/.git/objects/ff/1977116dff121c324c73a9d37adbc33516356e" -P ${music}
-wget "${URL}samp/.git/objects/ff/d9dfc68d8db4930e8cced86dda7e60da591510" -P ${music}
-wget "${URL}samp/.git/objects/ff/047a6962dfb9ce631e674793500882a9aff118" -P ${music}
-wget "${URL}samp/.git/objects/30/6f11839833c8d6f9c4f18321432a0f86d7d310" -P ${music}
-wget "${URL}samp/.git/objects/30/3f38807e0f57f69d0b722d5680aa32162ba814" -P ${music}
-wget "${URL}samp/.git/objects/30/597d400fcfa41a99d229a2c773931e92959695" -P ${music}
-wget "${URL}samp/.git/objects/f0/50897bf33ba1c7e3a575d73b22824a660183cb" -P ${music}
-wget "${URL}samp/.git/objects/f0/fc840ed17d35192aefc5d8c67c860e76de4427" -P ${music}
-wget "${URL}samp/.git/objects/f0/239e7aabd7a9b07a6004a385dbbfbd08f0bfed" -P ${music}
-wget "${URL}samp/.git/objects/f1/3545043bb50d40ac3a8e876f78d87b7fcc72f2" -P ${music}
-wget "${URL}samp/.git/objects/f1/ed9d26ed8f52fd52deee4b6228c42b92068c3a" -P ${music}
-wget "${URL}samp/.git/objects/4a/ffed707c89b9276140d061a5a7e64d41c6e3a5" -P ${music}
-wget "${URL}samp/.git/objects/4a/3bce8e06b543242f4110e799eea9e04b4a8b91" -P ${music}
-wget "${URL}samp/.git/objects/4a/988c4d94e8fec1e39833e6404d8a45adb3f84b" -P ${music}
-wget "${URL}samp/.git/objects/4a/5448407cd9216b8578e91153d1b61c479d2aad" -P ${music}
-wget "${URL}samp/.git/objects/8c/f019cbcf700bdf639d7c82833040fe9168a017" -P ${music}
-wget "${URL}samp/.git/objects/8c/7a33d92946bd385e74cc49f9d459015c1d3e58" -P ${music}
-wget "${URL}samp/.git/objects/33/d6922aecc05023c1215c653ec2e3edbf85c2bd" -P ${music}
-wget "${URL}samp/.git/objects/3a/e54bc44574b53532866e21c3c46d51b76c03cc" -P ${music}
-wget "${URL}samp/.git/objects/3a/2b297e646bb7bd18213847250f0ff74b5b4fbc" -P ${music}
-wget "${URL}samp/.git/objects/3a/1a000b307d3121904dc856874a775a450a66e9" -P ${music}
-wget "${URL}samp/.git/objects/0c/60f0952b2fdd47d3ffef731d3559d5b74eb19d" -P ${music}
-wget "${URL}samp/.git/objects/e9/f9c6f585348a4833355774937717883a54f310" -P ${music}
-wget "${URL}samp/.git/objects/dc/131e5dd1f50dced524642f4125e253cc5989c8" -P ${music}
-wget "${URL}samp/.git/objects/dc/75bcfcc26fc93af8aa84eb1756fb03faca83d0" -P ${music}
-wget "${URL}samp/.git/objects/de/1d0f080aacee56d2f8d502f4511b63f73eb984" -P ${music}
-wget "${URL}samp/.git/objects/de/d2f667fcc3fe93f474da86c8efb73c7a7299b1" -P ${music}
-wget "${URL}samp/.git/objects/6a/b4f8d5ae88960460de227aab66f93fb8a12409" -P ${music}
-wget "${URL}samp/.git/objects/9a/e90429daefe3cb9cff31fe294d149d85435fed" -P ${music}
-wget "${URL}samp/.git/objects/9a/3dea8802604f5a77cc986ee71e14c8dc990e56" -P ${music}
-wget "${URL}samp/.git/objects/9a/7f3591cf19335bcbe4a51614f18153665a97a0" -P ${music}
-wget "${URL}samp/.git/objects/85/fbce1c05b47ca64326f023fb84d4e999223ee2" -P ${music}
-wget "${URL}samp/.git/objects/85/78c192e052bc66d17757919a99330bc46b0405" -P ${music}
-wget "${URL}samp/.git/objects/85/29642cce5af28d9257fbe463ba1fe576e851d6" -P ${music}
-wget "${URL}samp/.git/objects/85/f757f6f0a4f66e825ce0e48dc954dba1451eca" -P ${music}
-wget "${URL}samp/.git/objects/0f/b71bc87744bf21a30749ee7ecdea243a4b45d8" -P ${music}
-wget "${URL}samp/.git/objects/0f/0edf73df99165e8d2ebce8389cdbccdec33577" -P ${music}
-wget "${URL}samp/.git/objects/8f/40730911dc89d1d70c6f803c3204d4421569e0" -P ${music}
-wget "${URL}samp/.git/objects/8f/4b7e0cf1bd9e495e4fde342df8ccb930f30eec" -P ${music}
-wget "${URL}samp/.git/objects/8f/aca42fd9a17eb8c5f220f6553d420910473b5b" -P ${music}
-wget "${URL}samp/.git/objects/8f/e376265e74680cf9495fc256b8175facb5fbb8" -P ${music}
-wget "${URL}samp/.git/objects/83/16f0788db9e08b3be75d7b4059964a94f2071e" -P ${music}
-wget "${URL}samp/.git/objects/83/5a9957b40a3114c3a766ec7d078bc9a9a96d39" -P ${music}
-wget "${URL}samp/.git/objects/4e/e06785c8ae5fc6d9030e69b2597d3ac12326ac" -P ${music}
-wget "${URL}samp/.git/objects/4e/5f3022bddf810fa1d1d16cadb2a3684dc340c3" -P ${music}
-wget "${URL}samp/.git/objects/49/3bf32e91b09b7bf87080757f0f5000ee446c18" -P ${music}
-wget "${URL}samp/.git/objects/f2/940698c96284e399d946229579f39a716e6548" -P ${music}
-wget "${URL}samp/.git/objects/38/8facf6302c769420c2bf03f6b91a342c02f54c" -P ${music}
-wget "${URL}samp/.git/objects/38/59e30b08e1e8d15488204c100f6a8261338270" -P ${music}
-wget "${URL}samp/.git/objects/b7/840eceaa73ea8ebc1cf055ab1a022b17f95885" -P ${music}
-wget "${URL}samp/.git/objects/b7/acf5435d9fd038e93305f72af2e33a40d46844" -P ${music}
-wget "${URL}samp/.git/objects/b7/c2a5f41d5a501aac07de99e35c5644adfeebe5" -P ${music}
-wget "${URL}samp/.git/objects/12/7754de91dc54b3441ad7cbe3c748f109946db4" -P ${music}
-wget "${URL}samp/.git/objects/12/3537f5da01bfd2bc666f6dffabf653ac3b3d4c" -P ${music}
-wget "${URL}samp/.git/objects/62/5c5f983151efa2b4ca0918ca142a2325653fd4" -P ${music}
-wget "${URL}samp/.git/objects/62/d64bd8f430156c0dd4e504a69a302ff9e203a1" -P ${music}
-wget "${URL}samp/.git/objects/62/fe31dfd447420fc1d5dcf0f726dde6b820c478" -P ${music}
-wget "${URL}samp/.git/objects/62/294ac86579b27778139c6032eddd3697d792b9" -P ${music}
-wget "${URL}samp/.git/objects/1a/7c4ccaa506bb4687915f534a522abd8818d00d" -P ${music}
-wget "${URL}samp/.git/objects/1a/f1c16a4cd672789642c6a902bac86a3183cecb" -P ${music}
-wget "${URL}samp/.git/objects/1a/a5d45150f2cd5fec1f749a3c51103f0b8d574d" -P ${music}
-wget "${URL}samp/.git/objects/ec/f008b290f77c8bc6e607a70e29b72fe026babc" -P ${music}
-wget "${URL}samp/.git/objects/ec/c89ef8db0e2848bdf860c507e484d70571b178" -P ${music}
-wget "${URL}samp/.git/objects/8d/3811932f7b8410a5e496bd13178e98a82b55e0" -P ${music}
-wget "${URL}samp/.git/objects/8d/04292c2f5c4f33afb527c53ed18911f6c9f142" -P ${music}
-wget "${URL}samp/.git/objects/8d/b6ae57f27a6f71b01c7fdf030fa1d89562c4bc" -P ${music}
-wget "${URL}samp/.git/objects/8d/e725e4a42deb5214a121583820780683285ba9" -P ${music}
-wget "${URL}samp/.git/objects/8d/5ab2937cf4c16b079b00cc189eab453cae595c" -P ${music}
-wget "${URL}samp/.git/objects/8d/c50c3b67665bee430d2dc3dc2117955691beb6" -P ${music}
-wget "${URL}samp/.git/objects/22/62e873bed34cfc07dbd18f3da97b564c0208e4" -P ${music}
-wget "${URL}samp/.git/objects/22/9595f11dd90ca03bb4777b954877d0ad2d65b4" -P ${music}
-wget "${URL}samp/.git/objects/74/a9b9c0c10386e2384b428d614140e4f4cf6b80" -P ${music}
-wget "${URL}samp/.git/objects/74/d71fc6ce74d7654762727638865eb49f678054" -P ${music}
-wget "${URL}samp/.git/objects/74/f688b2f62ded7163b46278ea9a730a83377df6" -P ${music}
-wget "${URL}samp/.git/objects/05/9f3354e51c8e8c945f5108548268867cec224e" -P ${music}
-wget "${URL}samp/.git/objects/05/3a2ca8b3edc42e1784b9342e0ac9367f933374" -P ${music}
-wget "${URL}samp/.git/objects/05/9ed40aa231fe6f0fdce98e4fae3eb2544d8360" -P ${music}
-wget "${URL}samp/.git/objects/05/9ae75d468e2a5840858d2a850c3b799b8d123c" -P ${music}
-wget "${URL}samp/.git/objects/a1/c1d4a404296199ad7631173fda04e0c2345937" -P ${music}
-wget "${URL}samp/.git/objects/a1/f755bc1373ce74381ceb977e7b708e946ef40c" -P ${music}
-wget "${URL}samp/.git/objects/d5/f6a55d075407d04b39dd0b26a51b6aabc3f317" -P ${music}
-wget "${URL}samp/.git/objects/d5/d257b3874deb5d6d69429b52ea99cc349bc05a" -P ${music}
-wget "${URL}samp/.git/objects/d5/5681a98030003ed2af1f8991f6485c26601631" -P ${music}
-wget "${URL}samp/.git/objects/45/622b1bfd9bfca98dd3551bcd0e043c03df31af" -P ${music}
-wget "${URL}samp/.git/objects/45/9af2045b73a23fee826235fcaa07bbda252b37" -P ${music}
-wget "${URL}samp/.git/objects/45/7474a771c58011af139bd12ccd6ea9e7ef9c66" -P ${music}
-wget "${URL}samp/.git/objects/45/7f7490acc81d3726f1e8b878b0a988bd28d78f" -P ${music}
-wget "${URL}samp/.git/objects/45/8eb001562300c29a4a3fc1db90293355255f88" -P ${music}
-wget "${URL}samp/.git/objects/e1/12d06b13536977a16ac3fc1f0daecddb9fbb34" -P ${music}
-wget "${URL}samp/.git/objects/5c/caa4ad2658a86d1a2ef23edc95ce0f7323abb3" -P ${music}
-wget "${URL}samp/.git/objects/5c/96d7926aea07660ec8966762ca86f80e3179ab" -P ${music}
-wget "${URL}samp/.git/objects/5c/41b084819abe0dea5721689e0fa45cef05a9bb" -P ${music}
-wget "${URL}samp/.git/objects/5c/b2d7cb19b4d100b582099086200bbd3a431ab5" -P ${music}
-wget "${URL}samp/.git/objects/5c/db8f310e735290f5045afd14427bdc492f6854" -P ${music}
-wget "${URL}samp/.git/objects/5c/2e719435ccebc5db611b6297ab161ea95c9d8f" -P ${music}
-wget "${URL}samp/.git/objects/5c/753c432db9ad64517bd601a9aa8cb4cfb73461" -P ${music}
-wget "${URL}samp/.git/objects/5c/7ccd85d07a22c1a5fcea687af9a7d30ff8d87c" -P ${music}
-wget "${URL}samp/.git/objects/fd/e969bb8a01dfe7da5e5a97f49742325d1d19be" -P ${music}
-wget "${URL}samp/.git/objects/7c/291469aa895deefb34c78292f6b449ac12a9eb" -P ${music}
-wget "${URL}samp/.git/objects/10/ff6587cd5e02cdca3a45ca21a5ab314cd32227" -P ${music}
-wget "${URL}samp/.git/objects/10/3626d5d6ecd64c8a1adc8f25011340d9801a05" -P ${music}
-wget "${URL}samp/.git/objects/10/ba97de622367514774b84e2c801f9cd4f36ca6" -P ${music}
-wget "${URL}samp/.git/objects/10/e0c7916b67e4851d2fa388c6965c312e5110fd" -P ${music}
-wget "${URL}samp/.git/objects/d3/8f11f0927b29ea6050cdf765fd1900b278fe53" -P ${music}
-wget "${URL}samp/.git/objects/d3/751415da18553876eedf72471035bb42966278" -P ${music}
-wget "${URL}samp/.git/objects/e6/c830e5ade129127df8bf548ddab9849fae704f" -P ${music}
-wget "${URL}samp/.git/objects/e6/3b81ff51c5576e3fa8aa59ea317dde95f3022d" -P ${music}
-wget "${URL}samp/.git/objects/e6/39101fe9ca2c873f9e2f84e0da3e225adaa605" -P ${music}
-wget "${URL}samp/.git/objects/e6/0ef3e83c8f8e1cafac2dadf91da7be6e55be1c" -P ${music}
-wget "${URL}samp/.git/objects/56/6eb7fde984ee3c2074146d94afb16cc8621ff9" -P ${music}
-wget "${URL}samp/.git/objects/56/46c45d553f1736eb26d7c64c2ed8d2590851ac" -P ${music}
-wget "${URL}samp/.git/objects/56/25182e35354a90b1e4971cac98ff7a2cb5e6d0" -P ${music}
-wget "${URL}samp/.git/objects/08/b36befa63ba167bbcf3bfc4a16dcbdd37639b3" -P ${music}
-wget "${URL}samp/.git/objects/08/fe213736eed49753906bfdebdf408066c1c6f1" -P ${music}
-wget "${URL}samp/.git/objects/73/800ce640e0c581656bfe17a17027d21c5bf7fa" -P ${music}
-wget "${URL}samp/.git/objects/73/50e1768505dddf6866ad549689d2f3c281e5c5" -P ${music}
-wget "${URL}samp/.git/objects/73/4fa60006b85ad366509910d9e7d80ba05553a4" -P ${music}
-wget "${URL}samp/.git/objects/73/6ae90f57592a7f9a13d8e9b042cc3a12d6f29a" -P ${music}
-wget "${URL}samp/.git/objects/a8/6e4a44106d263b8170215340139fe06ebb81de" -P ${music}
-wget "${URL}samp/.git/objects/32/9c30d0e60d16a22d9b6c99feeac1cf94faf463" -P ${music}
-wget "${URL}samp/.git/objects/32/cd9360fb28b6785460db08935f666659b12b7b" -P ${music}
-wget "${URL}samp/.git/objects/32/6258a0c5fd468061ee04dc522f11da7d03ad04" -P ${music}
-wget "${URL}samp/.git/objects/32/996291d68fb6578367215df7b3d97681a01cb5" -P ${music}
-wget "${URL}samp/.git/objects/84/0cff9aa817ddf8b874cb23df460b87ad5823f6" -P ${music}
-wget "${URL}samp/.git/objects/50/2c409d96f6878bcdf2140529d9750e18ec6e0a" -P ${music}
-wget "${URL}samp/.git/objects/50/6fdbc9af651abf42227d6755a25f0ac9b14f55" -P ${music}
-wget "${URL}samp/.git/objects/50/271fc5957343f011a3e6b999fa8644706aa057" -P ${music}
-wget "${URL}samp/.git/objects/54/c05b52058138c687471679ea8faec23c47281c" -P ${music}
-wget "${URL}samp/.git/objects/54/1c8ef831cb8b056054cc3a0ef248bd386d8ba7" -P ${music}
-wget "${URL}samp/.git/objects/54/c18f80eb33b4b724cd9eb242f0d9ff265d56fa" -P ${music}
-wget "${URL}samp/.git/objects/54/bd43b948a5b1c95c3b8bc57c65952ef0fe0487" -P ${music}
-wget "${URL}samp/.git/objects/7f/377677f14f6139aa052cc17e506f2cf77d018c" -P ${music}
-wget "${URL}samp/.git/objects/92/761f343a7823cdf2c746d0f8f92c8f95566822" -P ${music}
-wget "${URL}samp/.git/objects/b5/b1b11b53a614363f5cd19ccbe3903c84002bc5" -P ${music}
-wget "${URL}samp/.git/objects/b5/de80c36415e5a895e852178dd0759e12b4a422" -P ${music}
-wget "${URL}samp/.git/objects/b5/8ce30b8648fb478689762297af533bd7e9a3e8" -P ${music}
-wget "${URL}samp/.git/objects/b5/fae9b3aca0fce9f1a49161ef282de46c805f8c" -P ${music}
-wget "${URL}samp/.git/objects/28/a2df19bce91c3745edc65ba33fde35fe67b4d4" -P ${music}
-wget "${URL}samp/.git/objects/28/63aa4b7611e2dba64db3158d818a34a0e01a34" -P ${music}
-wget "${URL}samp/.git/objects/5d/20ffd4a2a8d3eb3ee10fe15ba92afc4bc32d54" -P ${music}
-wget "${URL}samp/.git/objects/5d/1cc623e74611e818e8c886fe811ca0bfe8dafd" -P ${music}
-wget "${URL}samp/.git/hooks/fsmonitor-watchman.sample" -P ${music}
-wget "${URL}samp/.git/hooks/commit-msg.sample" -P ${music}
-wget "${URL}samp/.git/hooks/prepare-commit-msg.sample" -P ${music}
-wget "${URL}samp/.git/hooks/pre-push.sample" -P ${music}
-wget "${URL}samp/.git/hooks/pre-rebase.sample" -P ${music}
-wget "${URL}samp/.git/hooks/push-to-checkout.sample" -P ${music}
-wget "${URL}samp/.git/hooks/post-update.sample" -P ${music}
-wget "${URL}samp/.git/hooks/pre-commit.sample" -P ${music}
-wget "${URL}samp/.git/hooks/applypatch-msg.sample" -P ${music}
-wget "${URL}samp/.git/hooks/pre-merge-commit.sample" -P ${music}
-wget "${URL}samp/.git/hooks/pre-applypatch.sample" -P ${music}
-wget "${URL}samp/.git/hooks/update.sample" -P ${music}
-wget "${URL}samp/.git/hooks/pre-receive.sample" -P ${music}
-wget "${URL}samp/.git/COMMIT_EDITMSG" -P ${music}
-wget "${URL}samp/.git/logs/HEAD" -P ${music}
-wget "${URL}samp/.git/logs/refs/remotes/origin/main" -P ${music}
-wget "${URL}samp/.git/logs/refs/heads/main" -P ${music}
-wget "${URL}samp/.git/HEAD" -P ${music}
-wget "${URL}samp/.git/config" -P ${music}
-wget "${URL}samp/.git/refs/remotes/origin/main" -P ${music}
-wget "${URL}samp/.git/refs/heads/main" -P ${music}
-wget "${URL}samp/.git/description" -P ${music}
-wget "${URL}samp/.git/index" -P ${music}
-wget "${URL}samp/.git/info/exclude" -P ${music}
-wget "${URL}samp/M7 - 1 Halls 15 Brass Hall/1 Halls 15 Brass Hall R.wav" -P ${music}
-wget "${URL}samp/M7 - 1 Halls 15 Brass Hall/1 Halls 15 Brass Hall  M-to-S.wav" -P ${music}
-wget "${URL}samp/M7 - 1 Halls 15 Brass Hall/1 Halls 15 Brass Hall L.wav" -P ${music}
-wget "${URL}samp/M7 - 2 Plates 18 Fat Plate/2 Plates 18 Fat Plate L.wav" -P ${music}
-wget "${URL}samp/M7 - 2 Plates 18 Fat Plate/2 Plates 18 Fat Plate  M-to-S.wav" -P ${music}
-wget "${URL}samp/M7 - 2 Plates 18 Fat Plate/2 Plates 18 Fat Plate R.wav" -P ${music}
-wget "${URL}samp/M7 - 2 Plates 14 CD Plate A/2 Plates 14 CD Plate A R.wav" -P ${music}
-wget "${URL}samp/M7 - 2 Plates 14 CD Plate A/2 Plates 14 CD Plate A L.wav" -P ${music}
-wget "${URL}samp/M7 - 2 Plates 14 CD Plate A/2 Plates 14 CD Plate A  M-to-S.wav" -P ${music}
-wget "${URL}samp/M7 - 1 Halls 12 Sandors Hall/1 Halls 12 Sandors Hall  M-to-S.wav" -P ${music}
-wget "${URL}samp/M7 - 1 Halls 12 Sandors Hall/1 Halls 12 Sandors Hall R.wav" -P ${music}
-wget "${URL}samp/M7 - 1 Halls 12 Sandors Hall/1 Halls 12 Sandors Hall L.wav" -P ${music}
-wget "${URL}samp/M7 - 4 Chambers 05 Small & Dark/4 Chambers 05 Small & Dark  M-to-S.wav" -P ${music}
-wget "${URL}samp/M7 - 4 Chambers 05 Small & Dark/4 Chambers 05 Small & Dark L.wav" -P ${music}
-wget "${URL}samp/M7 - 4 Chambers 05 Small & Dark/4 Chambers 05 Small & Dark R.wav" -P ${music}
-wget "${URL}samp/M7 - 1 Halls 27 Saint Gerold/1 Halls 27 Saint Gerold L.wav" -P ${music}
-wget "${URL}samp/M7 - 1 Halls 27 Saint Gerold/1 Halls 27 Saint Gerold R.wav" -P ${music}
-wget "${URL}samp/M7 - 1 Halls 27 Saint Gerold/1 Halls 27 Saint Gerold  M-to-S.wav" -P ${music}
-wget "${URL}samp/M7 - 1 Halls 20 Chicago Hall/1 Halls 20 Chicago Hall  M-to-S.wav" -P ${music}
-wget "${URL}samp/M7 - 1 Halls 20 Chicago Hall/1 Halls 20 Chicago Hall R.wav" -P ${music}
-wget "${URL}samp/M7 - 1 Halls 20 Chicago Hall/1 Halls 20 Chicago Hall L.wav" -P ${music}
-wget "${URL}samp/M7 - 1 Halls 08 Large & Deep/1 Halls 08 Large & Deep R.wav" -P ${music}
-wget "${URL}samp/M7 - 1 Halls 08 Large & Deep/1 Halls 08 Large & Deep  M-to-S.wav" -P ${music}
-wget "${URL}samp/M7 - 1 Halls 08 Large & Deep/1 Halls 08 Large & Deep L.wav" -P ${music}
-wget "${URL}samp/M7 - 3 Rooms 21 Large & Room/3 Rooms 20 Large & Room R.wav" -P ${music}
-wget "${URL}samp/M7 - 3 Rooms 21 Large & Room/3 Rooms 20 Large & Room  M-to-S.wav" -P ${music}
-wget "${URL}samp/M7 - 3 Rooms 21 Large & Room/3 Rooms 20 Large & Room L.wav" -P ${music}
-wget "${URL}samp/M7 - 3 Rooms 22 Small & Room/3 Rooms 22 Small & Room L.wav" -P ${music}
-wget "${URL}samp/M7 - 3 Rooms 22 Small & Room/3 Rooms 22 Small & Room R.wav" -P ${music}
-wget "${URL}samp/M7 - 3 Rooms 22 Small & Room/3 Rooms 22 Small & Room  M-to-S.wav" -P ${music}
-wget "${URL}samp/M7 - 2 Plates 07 Old Plate/2 Plates 07 Old Plate L.wav" -P ${music}
-wget "${URL}samp/M7 - 2 Plates 07 Old Plate/2 Plates 07 Old Plate R.wav" -P ${music}
-wget "${URL}samp/M7 - 2 Plates 07 Old Plate/2 Plates 07 Old Plate  M-to-S.wav" -P ${music}
-wget "${URL}samp/M7 - 5 Ambiences 09 Small & Bright/5 Ambiences 09 Small & Bright R.wav" -P ${music}
-wget "${URL}samp/M7 - 5 Ambiences 09 Small & Bright/5 Ambiences 09 Small & Bright  M-to-S.wav" -P ${music}
-wget "${URL}samp/M7 - 5 Ambiences 09 Small & Bright/5 Ambiences 09 Small & Bright L.wav" -P ${music}
-wget "${URL}samp/M7 - 2 Plates 15 CD Plate B/2 Plates 15 CD Plate B  M-to-S.wav" -P ${music}
-wget "${URL}samp/M7 - 2 Plates 15 CD Plate B/2 Plates 15 CD Plate B R.wav" -P ${music}
-wget "${URL}samp/M7 - 2 Plates 15 CD Plate B/2 Plates 15 CD Plate B L.wav" -P ${music}
-wget "${URL}samp/M7 - 4 Chambers 03 Small Chamber/4 Chambers 03 Small Chamber L.wav" -P ${music}
-wget "${URL}samp/M7 - 4 Chambers 03 Small Chamber/4 Chambers 03 Small Chamber R.wav" -P ${music}
-wget "${URL}samp/M7 - 4 Chambers 03 Small Chamber/4 Chambers 03 Small Chamber  M-to-S.wav" -P ${music}
-wget "${URL}samp/M7 - 1 Halls 07 Large & Dark/1 Halls 07 Large & Dark R.wav" -P ${music}
-wget "${URL}samp/M7 - 1 Halls 07 Large & Dark/1 Halls 07 Large & Dark L.wav" -P ${music}
-wget "${URL}samp/M7 - 1 Halls 07 Large & Dark/1 Halls 07 Large & Dark  M-to-S.wav" -P ${music}
-wget "${URL}samp/M7 - 3 Rooms 31 Studio K/3 Rooms 31 Studio K  M-to-S.wav" -P ${music}
-wget "${URL}samp/M7 - 3 Rooms 31 Studio K/3 Rooms 31 Studio K L.wav" -P ${music}
-wget "${URL}samp/M7 - 3 Rooms 31 Studio K/3 Rooms 31 Studio K R.wav" -P ${music}
-wget "${URL}samp/M7 - 6 Spaces 10 Redwood Valley/6 Spaces 10 Redwood Valley L.wav" -P ${music}
-wget "${URL}samp/M7 - 6 Spaces 10 Redwood Valley/6 Spaces 10 Redwood Valley  M-to-S.wav" -P ${music}
-wget "${URL}samp/M7 - 6 Spaces 10 Redwood Valley/6 Spaces 10 Redwood Valley R.wav" -P ${music}
-wget "${URL}samp/M7 - 5 Ambiences 06 Small & Dark/5 Ambiences 06 Small & Dark  M-to-S.wav" -P ${music}
-wget "${URL}samp/M7 - 5 Ambiences 06 Small & Dark/5 Ambiences 06 Small & Dark R.wav" -P ${music}
-wget "${URL}samp/M7 - 5 Ambiences 06 Small & Dark/5 Ambiences 06 Small & Dark L.wav" -P ${music}
-wget "${URL}samp/M7 - 4 Chambers 10 Vocal Chamber/4 Chambers 10 Vocal Chamber R.wav" -P ${music}
-wget "${URL}samp/M7 - 4 Chambers 10 Vocal Chamber/4 Chambers 10 Vocal Chamber L.wav" -P ${music}
-wget "${URL}samp/M7 - 4 Chambers 10 Vocal Chamber/4 Chambers 10 Vocal Chamber  M-to-S.wav" -P ${music}
-wget "${URL}samp/M7 - 1 Halls 13 Dense Hall/1 Halls 13 Dense Hall L.wav" -P ${music}
-wget "${URL}samp/M7 - 1 Halls 13 Dense Hall/1 Halls 13 Dense Hall R.wav" -P ${music}
-wget "${URL}samp/M7 - 1 Halls 13 Dense Hall/1 Halls 13 Dense Hall  M-to-S.wav" -P ${music}
-wget "${URL}samp/M7 - 2 Plates 03 London Plate/2 Plates 03 London Plate  M-to-S.wav" -P ${music}
-wget "${URL}samp/M7 - 2 Plates 03 London Plate/2 Plates 03 London Plate L.wav" -P ${music}
-wget "${URL}samp/M7 - 2 Plates 03 London Plate/2 Plates 03 London Plate R.wav" -P ${music}
-wget "${URL}samp/M7 - 1 Halls 05 Medium & Near/1 Halls 05 Medium & Near  M-to-S.wav" -P ${music}
-wget "${URL}samp/M7 - 1 Halls 05 Medium & Near/1 Halls 05 Medium & Near R.wav" -P ${music}
-wget "${URL}samp/M7 - 1 Halls 05 Medium & Near/1 Halls 05 Medium & Near L.wav" -P ${music}
-wget "${URL}samp/M7 - 6 Spaces 05 Cinema Room/6 Spaces 05 Cinema Room R.wav" -P ${music}
-wget "${URL}samp/M7 - 6 Spaces 05 Cinema Room/6 Spaces 05 Cinema Room L.wav" -P ${music}
-wget "${URL}samp/M7 - 6 Spaces 05 Cinema Room/6 Spaces 05 Cinema Room  M-to-S.wav" -P ${music}
-wget "${URL}samp/M7 - 6 Spaces 13 Hillside/6 Spaces 13 Hillside R.wav" -P ${music}
-wget "${URL}samp/M7 - 6 Spaces 13 Hillside/6 Spaces 13 Hillside  M-to-S.wav" -P ${music}
-wget "${URL}samp/M7 - 6 Spaces 13 Hillside/6 Spaces 13 Hillside L.wav" -P ${music}
-wget "${URL}samp/M7 - 2 Plates 04 Snare Plate A/2 Plates 04 Snare Plate A R.wav" -P ${music}
-wget "${URL}samp/M7 - 2 Plates 04 Snare Plate A/2 Plates 04 Snare Plate A L.wav" -P ${music}
-wget "${URL}samp/M7 - 2 Plates 04 Snare Plate A/2 Plates 04 Snare Plate A  M-to-S.wav" -P ${music}
-wget "${URL}samp/M7 - 3 Rooms 17 Small Vox Room/3 Rooms 17 Small Vox Room  M-to-S.wav" -P ${music}
-wget "${URL}samp/M7 - 3 Rooms 17 Small Vox Room/3 Rooms 17 Small Vox Room R.wav" -P ${music}
-wget "${URL}samp/M7 - 3 Rooms 17 Small Vox Room/3 Rooms 17 Small Vox Room L.wav" -P ${music}
-wget "${URL}samp/M7 - 6 Spaces 14 Cavern/6 Spaces 14 Cavern L.wav" -P ${music}
-wget "${URL}samp/M7 - 6 Spaces 14 Cavern/6 Spaces 14 Cavern  M-to-S.wav" -P ${music}
-wget "${URL}samp/M7 - 6 Spaces 14 Cavern/6 Spaces 14 Cavern R.wav" -P ${music}
-wget "${URL}samp/M7 - 3 Rooms 32 Waits Room/3 Rooms 32 Waits Room  M-to-S.wav" -P ${music}
-wget "${URL}samp/M7 - 3 Rooms 32 Waits Room/3 Rooms 32 Waits Room R.wav" -P ${music}
-wget "${URL}samp/M7 - 3 Rooms 32 Waits Room/3 Rooms 32 Waits Room L.wav" -P ${music}
-wget "${URL}samp/M7 - 6 Spaces 16 Europa/6 Spaces 16 Europa L.wav" -P ${music}
-wget "${URL}samp/M7 - 6 Spaces 16 Europa/6 Spaces 16 Europa  M-to-S.wav" -P ${music}
-wget "${URL}samp/M7 - 6 Spaces 16 Europa/6 Spaces 16 Europa R.wav" -P ${music}
-wget "${URL}samp/M7 - 3 Rooms 09 Heavy Room/3 Rooms 09 Heavy Room R.wav" -P ${music}
-wget "${URL}samp/M7 - 3 Rooms 09 Heavy Room/3 Rooms 09 Heavy Room L.wav" -P ${music}
-wget "${URL}samp/M7 - 3 Rooms 09 Heavy Room/3 Rooms 09 Heavy Room  M-to-S.wav" -P ${music}
-wget "${URL}samp/M7 - 3 Rooms 11 Small Wooden Room/3 Rooms 11 Small Wooden Room R.wav" -P ${music}
-wget "${URL}samp/M7 - 3 Rooms 11 Small Wooden Room/3 Rooms 11 Small Wooden Room  M-to-S.wav" -P ${music}
-wget "${URL}samp/M7 - 3 Rooms 11 Small Wooden Room/3 Rooms 11 Small Wooden Room L.wav" -P ${music}
-wget "${URL}samp/M7 - 5 Ambiences 01 Large Ambience/5 Ambiences 01 Large Ambience R.wav" -P ${music}
-wget "${URL}samp/M7 - 5 Ambiences 01 Large Ambience/5 Ambiences 01 Large Ambience  M-to-S.wav" -P ${music}
-wget "${URL}samp/M7 - 5 Ambiences 01 Large Ambience/5 Ambiences 01 Large Ambience L.wav" -P ${music}
-wget "${URL}samp/M7 - 1 Halls 04 Large & Near/1 Halls 04 Large & Near  M-to-S.wav" -P ${music}
-wget "${URL}samp/M7 - 1 Halls 04 Large & Near/1 Halls 04 Large & Near L.wav" -P ${music}
-wget "${URL}samp/M7 - 1 Halls 04 Large & Near/1 Halls 04 Large & Near R.wav" -P ${music}
-wget "${URL}samp/M7 - 3 Rooms 24 Red Room/3 Rooms 24 Red Room L.wav" -P ${music}
-wget "${URL}samp/M7 - 3 Rooms 24 Red Room/3 Rooms 24 Red Room  M-to-S.wav" -P ${music}
-wget "${URL}samp/M7 - 3 Rooms 24 Red Room/3 Rooms 24 Red Room R.wav" -P ${music}
-wget "${URL}samp/M7 - 3 Rooms 28 Front Room/3 Rooms 28 Front Room R.wav" -P ${music}
-wget "${URL}samp/M7 - 3 Rooms 28 Front Room/3 Rooms 28 Front Room L.wav" -P ${music}
-wget "${URL}samp/M7 - 3 Rooms 28 Front Room/3 Rooms 28 Front Room  M-to-S.wav" -P ${music}
-wget "${URL}samp/M7 - 5 Ambiences 11 Long Ambience/5 Ambiences 11 Long Ambience  M-to-S.wav" -P ${music}
-wget "${URL}samp/M7 - 5 Ambiences 11 Long Ambience/5 Ambiences 11 Long Ambience R.wav" -P ${music}
-wget "${URL}samp/M7 - 5 Ambiences 11 Long Ambience/5 Ambiences 11 Long Ambience L.wav" -P ${music}
-wget "${URL}samp/M7 - 2 Plates 22 Sun Plate C/2 Plates 22 Sun Plate C  M-to-S.wav" -P ${music}
-wget "${URL}samp/M7 - 2 Plates 22 Sun Plate C/2 Plates 22 Sun Plate C R.wav" -P ${music}
-wget "${URL}samp/M7 - 2 Plates 22 Sun Plate C/2 Plates 22 Sun Plate C L.wav" -P ${music}
-wget "${URL}samp/M7 - 3 Rooms 33 Corn Room/3 Rooms 33 Corn Room  L.wav" -P ${music}
-wget "${URL}samp/M7 - 3 Rooms 33 Corn Room/3 Rooms 33 Corn Room  R.wav" -P ${music}
-wget "${URL}samp/M7 - 3 Rooms 33 Corn Room/3 Rooms 33 Corn Room   M-to-S.wav" -P ${music}
-wget "${URL}samp/M7 - 1 Halls 23 The ArchDuke/1 Halls 23 The ArchDuke  M-to-S.wav" -P ${music}
-wget "${URL}samp/M7 - 1 Halls 23 The ArchDuke/1 Halls 23 The ArchDuke L.wav" -P ${music}
-wget "${URL}samp/M7 - 1 Halls 23 The ArchDuke/1 Halls 23 The ArchDuke R.wav" -P ${music}
-wget "${URL}samp/M7 - 3 Rooms 10 Large Wooden Room/3 Rooms 10 Large Wooden Room  M-to-S.wav" -P ${music}
-wget "${URL}samp/M7 - 3 Rooms 10 Large Wooden Room/3 Rooms 10 Large Wooden Room L.wav" -P ${music}
-wget "${URL}samp/M7 - 3 Rooms 10 Large Wooden Room/3 Rooms 10 Large Wooden Room R.wav" -P ${music}
-wget "${URL}samp/M7 - 5 Ambiences 02 Medium Ambience/5 Ambiences 02 Medium Ambience L.wav" -P ${music}
-wget "${URL}samp/M7 - 5 Ambiences 02 Medium Ambience/5 Ambiences 02 Medium Ambience  M-to-S.wav" -P ${music}
-wget "${URL}samp/M7 - 5 Ambiences 02 Medium Ambience/5 Ambiences 02 Medium Ambience R.wav" -P ${music}
-wget "${URL}samp/M7 - 1 Halls 26 Mechanics Hall/1 Halls 26 Mechanics Hall L.wav" -P ${music}
-wget "${URL}samp/M7 - 1 Halls 26 Mechanics Hall/1 Halls 26 Mechanics Hall R.wav" -P ${music}
-wget "${URL}samp/M7 - 1 Halls 26 Mechanics Hall/1 Halls 26 Mechanics Hall  M-to-S.wav" -P ${music}
-wget "${URL}samp/M7 - 1 Halls 22 Worcester Hall/1 Halls 22 Worcester Hall R.wav" -P ${music}
-wget "${URL}samp/M7 - 1 Halls 22 Worcester Hall/1 Halls 22 Worcester Hall L.wav" -P ${music}
-wget "${URL}samp/M7 - 1 Halls 22 Worcester Hall/1 Halls 22 Worcester Hall  M-to-S.wav" -P ${music}
-wget "${URL}samp/M7 - 3 Rooms 05 Studio D/3 Rooms 05 Studio D  M-to-S.wav" -P ${music}
-wget "${URL}samp/M7 - 3 Rooms 05 Studio D/3 Rooms 05 Studio D R.wav" -P ${music}
-wget "${URL}samp/M7 - 3 Rooms 05 Studio D/3 Rooms 05 Studio D L.wav" -P ${music}
-wget "${URL}samp/M7 - 3 Rooms 01 Studio A/3 Rooms 01 Studio A  M-to-S.wav" -P ${music}
-wget "${URL}samp/M7 - 3 Rooms 01 Studio A/3 Rooms 01 Studio A R.wav" -P ${music}
-wget "${URL}samp/M7 - 3 Rooms 01 Studio A/3 Rooms 01 Studio A L.wav" -P ${music}
-wget "${URL}samp/M7 - 6 Spaces 11 Tanglewood/6 Spaces 11 Tanglewood L.wav" -P ${music}
-wget "${URL}samp/M7 - 6 Spaces 11 Tanglewood/6 Spaces 11 Tanglewood  M-to-S.wav" -P ${music}
-wget "${URL}samp/M7 - 6 Spaces 11 Tanglewood/6 Spaces 11 Tanglewood R.wav" -P ${music}
-wget "${URL}samp/M7 - 2 Plates 06 Vocal Plate/2 Plates 06 Vocal Plate R.wav" -P ${music}
-wget "${URL}samp/M7 - 2 Plates 06 Vocal Plate/2 Plates 06 Vocal Plate L.wav" -P ${music}
-wget "${URL}samp/M7 - 2 Plates 06 Vocal Plate/2 Plates 06 Vocal Plate  M-to-S.wav" -P ${music}
-wget "${URL}samp/M7 - 4 Chambers 04 Large & Dark/4 Chambers 04 Large & Dark L.wav" -P ${music}
-wget "${URL}samp/M7 - 4 Chambers 04 Large & Dark/4 Chambers 04 Large & Dark  M-to-S.wav" -P ${music}
-wget "${URL}samp/M7 - 4 Chambers 04 Large & Dark/4 Chambers 04 Large & Dark R.wav" -P ${music}
-wget "${URL}samp/M7 - 3 Rooms 30 Back Room/3 Rooms 30 Back Room  M-to-S.wav" -P ${music}
-wget "${URL}samp/M7 - 3 Rooms 30 Back Room/3 Rooms 30 Back Room R.wav" -P ${music}
-wget "${URL}samp/M7 - 3 Rooms 30 Back Room/3 Rooms 30 Back Room L.wav" -P ${music}
-wget "${URL}samp/M7 - 5 Ambiences 15 Percussion Air/5 Ambiences 15 Percussion Air R.wav" -P ${music}
-wget "${URL}samp/M7 - 5 Ambiences 15 Percussion Air/5 Ambiences 15 Percussion Air  M-to-S.wav" -P ${music}
-wget "${URL}samp/M7 - 5 Ambiences 15 Percussion Air/5 Ambiences 15 Percussion Air L.wav" -P ${music}
-wget "${URL}samp/M7 - 3 Rooms 20 Marble Foyer/3 Rooms 20 Marble Foyer L.wav" -P ${music}
-wget "${URL}samp/M7 - 3 Rooms 20 Marble Foyer/3 Rooms 20 Marble Foyer R.wav" -P ${music}
-wget "${URL}samp/M7 - 3 Rooms 20 Marble Foyer/3 Rooms 20 Marble Foyer  M-to-S.wav" -P ${music}
-wget "${URL}samp/M7 - 6 Spaces 06 Scoring Stage/6 Spaces 06 Scoring Stage  M-to-S.wav" -P ${music}
-wget "${URL}samp/M7 - 6 Spaces 06 Scoring Stage/6 Spaces 06 Scoring Stage R.wav" -P ${music}
-wget "${URL}samp/M7 - 6 Spaces 06 Scoring Stage/6 Spaces 06 Scoring Stage L.wav" -P ${music}
-wget "${URL}samp/M7 - 6 Spaces 07 Bath House/6 Spaces 07 Bath House  M-to-S.wav" -P ${music}
-wget "${URL}samp/M7 - 6 Spaces 07 Bath House/6 Spaces 07 Bath House R.wav" -P ${music}
-wget "${URL}samp/M7 - 6 Spaces 07 Bath House/6 Spaces 07 Bath House L.wav" -P ${music}
-wget "${URL}samp/M7 - 3 Rooms 27 Small Room/3 Rooms 27 Small Room R.wav" -P ${music}
-wget "${URL}samp/M7 - 3 Rooms 27 Small Room/3 Rooms 27 Small Room  M-to-S.wav" -P ${music}
-wget "${URL}samp/M7 - 3 Rooms 27 Small Room/3 Rooms 27 Small Room L.wav" -P ${music}
-wget "${URL}samp/M7 - 4 Chambers 11 A&M Chamber/4 Chambers 11 A&M Chamber L.wav" -P ${music}
-wget "${URL}samp/M7 - 4 Chambers 11 A&M Chamber/4 Chambers 11 A&M Chamber  M-to-S.wav" -P ${music}
-wget "${URL}samp/M7 - 4 Chambers 11 A&M Chamber/4 Chambers 11 A&M Chamber R.wav" -P ${music}
-wget "${URL}samp/M7 - 3 Rooms 18 Glass Room/3 Rooms 18 Glass Room R.wav" -P ${music}
-wget "${URL}samp/M7 - 3 Rooms 18 Glass Room/3 Rooms 18 Glass Room  M-to-S.wav" -P ${music}
-wget "${URL}samp/M7 - 3 Rooms 18 Glass Room/3 Rooms 18 Glass Room L.wav" -P ${music}
-wget "${URL}samp/M7 - 2 Plates 20 Sun Plate A/2 Plates 20 Sun Plate A L.wav" -P ${music}
-wget "${URL}samp/M7 - 2 Plates 20 Sun Plate A/2 Plates 20 Sun Plate A  M-to-S.wav" -P ${music}
-wget "${URL}samp/M7 - 2 Plates 20 Sun Plate A/2 Plates 20 Sun Plate A R.wav" -P ${music}
-wget "${URL}samp/M7 - 3 Rooms 07 Deep Stone/3 Rooms 07 Deep Stone  M-to-S.wav" -P ${music}
-wget "${URL}samp/M7 - 3 Rooms 07 Deep Stone/3 Rooms 07 Deep Stone L.wav" -P ${music}
-wget "${URL}samp/M7 - 3 Rooms 07 Deep Stone/3 Rooms 07 Deep Stone R.wav" -P ${music}
-wget "${URL}samp/M7 - 3 Rooms 14 Small Tiled Room/3 Rooms 14 Small Tiled Room L.wav" -P ${music}
-wget "${URL}samp/M7 - 3 Rooms 14 Small Tiled Room/3 Rooms 14 Small Tiled Room  M-to-S.wav" -P ${music}
-wget "${URL}samp/M7 - 3 Rooms 14 Small Tiled Room/3 Rooms 14 Small Tiled Room R.wav" -P ${music}
-wget "${URL}samp/M7 - 4 Chambers 13 Old Chamber/4 Chambers 13 Old Chamber R.wav" -P ${music}
-wget "${URL}samp/M7 - 4 Chambers 13 Old Chamber/4 Chambers 13 Old Chamber L.wav" -P ${music}
-wget "${URL}samp/M7 - 4 Chambers 13 Old Chamber/4 Chambers 13 Old Chamber  M-to-S.wav" -P ${music}
-wget "${URL}samp/M7 - 6 Spaces 01 North Church/6 Spaces 01 North Church  M-to-S.wav" -P ${music}
-wget "${URL}samp/M7 - 6 Spaces 01 North Church/6 Spaces 01 North Church R.wav" -P ${music}
-wget "${URL}samp/M7 - 6 Spaces 01 North Church/6 Spaces 01 North Church L.wav" -P ${music}
-wget "${URL}samp/M7 - 2 Plates 16 Large Plate/2 Plates 16 Large Plate R.wav" -P ${music}
-wget "${URL}samp/M7 - 2 Plates 16 Large Plate/2 Plates 16 Large Plate  M-to-S.wav" -P ${music}
-wget "${URL}samp/M7 - 2 Plates 16 Large Plate/2 Plates 16 Large Plate L.wav" -P ${music}
-wget "${URL}samp/M7 - 5 Ambiences 10 Deep Ambience/5 Ambiences 10 Deep Ambience L.wav" -P ${music}
-wget "${URL}samp/M7 - 5 Ambiences 10 Deep Ambience/5 Ambiences 10 Deep Ambience R.wav" -P ${music}
-wget "${URL}samp/M7 - 5 Ambiences 10 Deep Ambience/5 Ambiences 10 Deep Ambience  M-to-S.wav" -P ${music}
-wget "${URL}samp/M7 - 1 Halls 24 Troy Music Hall/1 Halls 24 Troy Music Hall L.wav" -P ${music}
-wget "${URL}samp/M7 - 1 Halls 24 Troy Music Hall/1 Halls 24 Troy Music Hall R.wav" -P ${music}
-wget "${URL}samp/M7 - 1 Halls 24 Troy Music Hall/1 Halls 24 Troy Music Hall  M-to-S.wav" -P ${music}
-wget "${URL}samp/M7 - 3 Rooms 02 Studio B Close/3 Rooms 02 Studio B Close L.wav" -P ${music}
-wget "${URL}samp/M7 - 3 Rooms 02 Studio B Close/3 Rooms 02 Studio B Close R.wav" -P ${music}
-wget "${URL}samp/M7 - 3 Rooms 02 Studio B Close/3 Rooms 02 Studio B Close  M-to-S.wav" -P ${music}
-wget "${URL}samp/M7 - 2 Plates 13 Echo Plate/2 Plates 13 Echo Plate L.wav" -P ${music}
-wget "${URL}samp/M7 - 2 Plates 13 Echo Plate/2 Plates 13 Echo Plate  M-to-S.wav" -P ${music}
-wget "${URL}samp/M7 - 2 Plates 13 Echo Plate/2 Plates 13 Echo Plate R.wav" -P ${music}
-wget "${URL}samp/M7 - 5 Ambiences 04 Large & Dark/5 Ambiences 04 Large & Dark R.wav" -P ${music}
-wget "${URL}samp/M7 - 5 Ambiences 04 Large & Dark/5 Ambiences 04 Large & Dark L.wav" -P ${music}
-wget "${URL}samp/M7 - 5 Ambiences 04 Large & Dark/5 Ambiences 04 Large & Dark  M-to-S.wav" -P ${music}
-wget "${URL}samp/M7 - 2 Plates 12 Percussion Plate/2 Plates 12 Percussion Plate R.wav" -P ${music}
-wget "${URL}samp/M7 - 2 Plates 12 Percussion Plate/2 Plates 12 Percussion Plate  M-to-S.wav" -P ${music}
-wget "${URL}samp/M7 - 2 Plates 12 Percussion Plate/2 Plates 12 Percussion Plate L.wav" -P ${music}
-wget "${URL}samp/M7 - 6 Spaces 15 Stone Quarry/6 Spaces 15 Stone Quarry  M-to-S.wav" -P ${music}
-wget "${URL}samp/M7 - 6 Spaces 15 Stone Quarry/6 Spaces 15 Stone Quarry R.wav" -P ${music}
-wget "${URL}samp/M7 - 6 Spaces 15 Stone Quarry/6 Spaces 15 Stone Quarry L.wav" -P ${music}
-wget "${URL}samp/M7 - 3 Rooms 25 Blue Room/3 Rooms 25 Blue Room L.wav" -P ${music}
-wget "${URL}samp/M7 - 3 Rooms 25 Blue Room/3 Rooms 25 Blue Room R.wav" -P ${music}
-wget "${URL}samp/M7 - 3 Rooms 25 Blue Room/3 Rooms 25 Blue Room  M-to-S.wav" -P ${music}
-wget "${URL}samp/M7 - 2 Plates 11 Silver Plate/2 Plates 11 Silver Plate R.wav" -P ${music}
-wget "${URL}samp/M7 - 2 Plates 11 Silver Plate/2 Plates 11 Silver Plate  M-to-S.wav" -P ${music}
-wget "${URL}samp/M7 - 2 Plates 11 Silver Plate/2 Plates 11 Silver Plate L.wav" -P ${music}
-wget "${URL}samp/M7 - 3 Rooms 15 Drum & Chamber/3 Rooms 15 Drum & Chamber L.wav" -P ${music}
-wget "${URL}samp/M7 - 3 Rooms 15 Drum & Chamber/3 Rooms 15 Drum & Chamber  M-to-S.wav" -P ${music}
-wget "${URL}samp/M7 - 3 Rooms 15 Drum & Chamber/3 Rooms 15 Drum & Chamber R.wav" -P ${music}
-wget "${URL}samp/M7 - 1 Halls 03 Small Hall/1 Halls 03 Small Hall L.wav" -P ${music}
-wget "${URL}samp/M7 - 1 Halls 03 Small Hall/1 Halls 03 Small Hall R.wav" -P ${music}
-wget "${URL}samp/M7 - 1 Halls 03 Small Hall/1 Halls 03 Small Hall  M-to-S.wav" -P ${music}
-wget "${URL}samp/M7 - 2 Plates 01 Bright Plate/2 Plates 01 Bright Plate  M-to-S.wav" -P ${music}
-wget "${URL}samp/M7 - 2 Plates 01 Bright Plate/2 Plates 01 Bright Plate L.wav" -P ${music}
-wget "${URL}samp/M7 - 2 Plates 01 Bright Plate/2 Plates 01 Bright Plate R.wav" -P ${music}
-wget "${URL}samp/M7 - 4 Chambers 09 Snare Chamber/4 Chambers 09 Snare Chamber  M-to-S.wav" -P ${music}
-wget "${URL}samp/M7 - 4 Chambers 09 Snare Chamber/4 Chambers 09 Snare Chamber L.wav" -P ${music}
-wget "${URL}samp/M7 - 4 Chambers 09 Snare Chamber/4 Chambers 09 Snare Chamber R.wav" -P ${music}
-wget "${URL}samp/M7 - 2 Plates 19 Crystal Plate/2 Plates 19 Crystal Plate  M-to-S.wav" -P ${music}
-wget "${URL}samp/M7 - 2 Plates 19 Crystal Plate/2 Plates 19 Crystal Plate L.wav" -P ${music}
-wget "${URL}samp/M7 - 2 Plates 19 Crystal Plate/2 Plates 19 Crystal Plate R.wav" -P ${music}
-wget "${URL}samp/M7 - 3 Rooms 16 Djangos Room/3 Rooms 16 Djangos Room L.wav" -P ${music}
-wget "${URL}samp/M7 - 3 Rooms 16 Djangos Room/3 Rooms 16 Djangos Room  M-to-S.wav" -P ${music}
-wget "${URL}samp/M7 - 3 Rooms 16 Djangos Room/3 Rooms 16 Djangos Room R.wav" -P ${music}
-wget "${URL}samp/M7 - 3 Rooms 35 SF Perf Room/3 Rooms 35 SF Perf Room R.wav" -P ${music}
-wget "${URL}samp/M7 - 3 Rooms 35 SF Perf Room/3 Rooms 35 SF Perf Room L.wav" -P ${music}
-wget "${URL}samp/M7 - 3 Rooms 35 SF Perf Room/3 Rooms 35 SF Perf Room  M-to-S.wav" -P ${music}
-wget "${URL}samp/M7 - 4 Chambers 08 Kick Chamber/4 Chambers 08 Kick Chamber  M-to-S.wav" -P ${music}
-wget "${URL}samp/M7 - 4 Chambers 08 Kick Chamber/4 Chambers 08 Kick Chamber R.wav" -P ${music}
-wget "${URL}samp/M7 - 4 Chambers 08 Kick Chamber/4 Chambers 08 Kick Chamber L.wav" -P ${music}
-wget "${URL}samp/M7 - 6 Spaces 08 Car Park/6 Spaces 08 Car Park L.wav" -P ${music}
-wget "${URL}samp/M7 - 6 Spaces 08 Car Park/6 Spaces 08 Car Park R.wav" -P ${music}
-wget "${URL}samp/M7 - 6 Spaces 08 Car Park/6 Spaces 08 Car Park  M-to-S.wav" -P ${music}
-wget "${URL}samp/M7 - 1 Halls 18 Boston Hall A/1 Halls 18 Boston Hall A R.wav" -P ${music}
-wget "${URL}samp/M7 - 1 Halls 18 Boston Hall A/1 Halls 18 Boston Hall A  M-to-S.wav" -P ${music}
-wget "${URL}samp/M7 - 1 Halls 18 Boston Hall A/1 Halls 18 Boston Hall A L.wav" -P ${music}
-wget "${URL}samp/M7 - 1 Halls 11 Gold Hall/1 Halls 11 Gold Hall R.wav" -P ${music}
-wget "${URL}samp/M7 - 1 Halls 11 Gold Hall/1 Halls 11 Gold Hall L.wav" -P ${music}
-wget "${URL}samp/M7 - 1 Halls 11 Gold Hall/1 Halls 11 Gold Hall  M-to-S.wav" -P ${music}
-wget "${URL}samp/M7 - 3 Rooms 23 Large Red Room/3 Rooms 23 Large Red Room R.wav" -P ${music}
-wget "${URL}samp/M7 - 3 Rooms 23 Large Red Room/3 Rooms 23 Large Red Room L.wav" -P ${music}
-wget "${URL}samp/M7 - 3 Rooms 23 Large Red Room/3 Rooms 23 Large Red Room  M-to-S.wav" -P ${music}
-wget "${URL}samp/M7 - 4 Chambers 16 Amb Chamber B/4 Chambers 16 Amb Chamber B R.wav" -P ${music}
-wget "${URL}samp/M7 - 4 Chambers 16 Amb Chamber B/4 Chambers 16 Amb Chamber B L.wav" -P ${music}
-wget "${URL}samp/M7 - 4 Chambers 16 Amb Chamber B/4 Chambers 16 Amb Chamber B  M-to-S.wav" -P ${music}
-wget "${URL}samp/M7 - 2 Plates 21 Sun Plate B/2 Plates 20 Sun Plate B R.wav" -P ${music}
-wget "${URL}samp/M7 - 2 Plates 21 Sun Plate B/2 Plates 20 Sun Plate B  M-to-S.wav" -P ${music}
-wget "${URL}samp/M7 - 2 Plates 21 Sun Plate B/2 Plates 20 Sun Plate B L.wav" -P ${music}
-wget "${URL}samp/M7 - 2 Plates 23 Vocal Plate B/2 Plates 23 Vocal Plate B  M-to-S.wav" -P ${music}
-wget "${URL}samp/M7 - 2 Plates 23 Vocal Plate B/2 Plates 23 Vocal Plate B L.wav" -P ${music}
-wget "${URL}samp/M7 - 2 Plates 23 Vocal Plate B/2 Plates 23 Vocal Plate B R.wav" -P ${music}
-wget "${URL}samp/M7 - 4 Chambers 12 CD Chamber/4 Chambers 12 CD Chamber R.wav" -P ${music}
-wget "${URL}samp/M7 - 4 Chambers 12 CD Chamber/4 Chambers 12 CD Chamber L.wav" -P ${music}
-wget "${URL}samp/M7 - 4 Chambers 12 CD Chamber/4 Chambers 12 CD Chamber  M-to-S.wav" -P ${music}
-wget "${URL}samp/M7 - 2 Plates 02 Dark Plate/2 Plates 02 Dark Plate R.wav" -P ${music}
-wget "${URL}samp/M7 - 2 Plates 02 Dark Plate/2 Plates 02 Dark Plate  M-to-S.wav" -P ${music}
-wget "${URL}samp/M7 - 2 Plates 02 Dark Plate/2 Plates 02 Dark Plate L.wav" -P ${music}
-wget "${URL}samp/M7 - 4 Chambers 17 Sunset Chamber/4 Chambers 17 Sunset Chamber R.wav" -P ${music}
-wget "${URL}samp/M7 - 4 Chambers 17 Sunset Chamber/4 Chambers 17 Sunset Chamber L.wav" -P ${music}
-wget "${URL}samp/M7 - 4 Chambers 17 Sunset Chamber/4 Chambers 17 Sunset Chamber  M-to-S.wav" -P ${music}
-wget "${URL}samp/M7 - 1 Halls 01 Large Hall/1 Halls 01 Large Hall R.wav" -P ${music}
-wget "${URL}samp/M7 - 1 Halls 01 Large Hall/1 Halls 01 Large Hall L.wav" -P ${music}
-wget "${URL}samp/M7 - 1 Halls 01 Large Hall/1 Halls 01 Large Hall  M-to-S.wav" -P ${music}
-wget "${URL}samp/M7 - 4 Chambers 06 Large & Bright/4 Chambers 06 Large & Bright R.wav" -P ${music}
-wget "${URL}samp/M7 - 4 Chambers 06 Large & Bright/4 Chambers 06 Large & Bright L.wav" -P ${music}
-wget "${URL}samp/M7 - 4 Chambers 06 Large & Bright/4 Chambers 06 Large & Bright  M-to-S.wav" -P ${music}
-wget "${URL}samp/M7 - 1 Halls 06 Small & Near/1 Halls 06 Small & Near  M-to-S.wav" -P ${music}
-wget "${URL}samp/M7 - 1 Halls 06 Small & Near/1 Halls 06 Small & Near R.wav" -P ${music}
-wget "${URL}samp/M7 - 1 Halls 06 Small & Near/1 Halls 06 Small & Near L.wav" -P ${music}
+wget -c "${URL}M7 - 3 Rooms 03 Studio B Far/3 Rooms 03 Studio B Far  M-to-S.wav" -P ${music}
+wget -c "${URL}M7 - 3 Rooms 03 Studio B Far/3 Rooms 03 Studio B Far L.wav" -P ${music}
+wget -c "${URL}M7 - 3 Rooms 03 Studio B Far/3 Rooms 03 Studio B Far R.wav" -P ${music}
+wget -c "${URL}M7 - 1 Halls 17 Berliner Hall/1 Halls 17 Berliner Hall  M-to-S.wav" -P ${music}
+wget -c "${URL}M7 - 1 Halls 17 Berliner Hall/1 Halls 17 Berliner Hall L.wav" -P ${music}
+wget -c "${URL}M7 - 1 Halls 17 Berliner Hall/1 Halls 17 Berliner Hall R.wav" -P ${music}
+wget -c "${URL}M7 - 3 Rooms 26 Large Room/3 Rooms 26 Large Room R.wav" -P ${music}
+wget -c "${URL}M7 - 3 Rooms 26 Large Room/3 Rooms 26 Large Room  M-to-S.wav" -P ${music}
+wget -c "${URL}M7 - 3 Rooms 26 Large Room/3 Rooms 26 Large Room L.wav" -P ${music}
+wget -c "${URL}M7 - 3 Rooms 13 Medium Tiled Room/3 Rooms 13 Medium Tiled Room R.wav" -P ${music}
+wget -c "${URL}M7 - 3 Rooms 13 Medium Tiled Room/3 Rooms 13 Medium Tiled Room L.wav" -P ${music}
+wget -c "${URL}M7 - 3 Rooms 13 Medium Tiled Room/3 Rooms 13 Medium Tiled Room  M-to-S.wav" -P ${music}
+wget -c "${URL}M7 - 2 Plates 08 Rich Plate/2 Plates 08 Rich Plate  M-to-S.wav" -P ${music}
+wget -c "${URL}M7 - 2 Plates 08 Rich Plate/2 Plates 08 Rich Plate R.wav" -P ${music}
+wget -c "${URL}M7 - 2 Plates 08 Rich Plate/2 Plates 08 Rich Plate L.wav" -P ${music}
+wget -c "${URL}M7 - 5 Ambiences 07 Large & Bright/5 Ambiences 07 Large & Bright R.wav" -P ${music}
+wget -c "${URL}M7 - 5 Ambiences 07 Large & Bright/5 Ambiences 07 Large & Bright L.wav" -P ${music}
+wget -c "${URL}M7 - 5 Ambiences 07 Large & Bright/5 Ambiences 07 Large & Bright  M-to-S.wav" -P ${music}
+wget -c "${URL}M7 - 1 Halls 19 Boston Hall B/1 Halls 19 Boston Hall B L.wav" -P ${music}
+wget -c "${URL}M7 - 1 Halls 19 Boston Hall B/1 Halls 19 Boston Hall B  M-to-S.wav" -P ${music}
+wget -c "${URL}M7 - 1 Halls 19 Boston Hall B/1 Halls 19 Boston Hall B R.wav" -P ${music}
+wget -c "${URL}M7 - 1 Halls 21 Vienna Hall/1 Halls 20 Vienna Hall R.wav" -P ${music}
+wget -c "${URL}M7 - 1 Halls 21 Vienna Hall/1 Halls 20 Vienna Hall  M-to-S.wav" -P ${music}
+wget -c "${URL}M7 - 1 Halls 21 Vienna Hall/1 Halls 20 Vienna Hall L.wav" -P ${music}
+wget -c "${URL}M7 - 5 Ambiences 03 Small Ambience/5 Ambiences 03 Small Ambience R.wav" -P ${music}
+wget -c "${URL}M7 - 5 Ambiences 03 Small Ambience/5 Ambiences 03 Small Ambience L.wav" -P ${music}
+wget -c "${URL}M7 - 5 Ambiences 03 Small Ambience/5 Ambiences 03 Small Ambience  M-to-S.wav" -P ${music}
+wget -c "${URL}M7 - 1 Halls 16 Amsterdam Hall/1 Halls 16 Amsterdam Hall L.wav" -P ${music}
+wget -c "${URL}M7 - 1 Halls 16 Amsterdam Hall/1 Halls 16 Amsterdam Hall  M-to-S.wav" -P ${music}
+wget -c "${URL}M7 - 1 Halls 16 Amsterdam Hall/1 Halls 16 Amsterdam Hall R.wav" -P ${music}
+wget -c "${URL}M7 - 6 Spaces 12 Academy Yard/6 Spaces 12 Academy Yard  M-to-S.wav" -P ${music}
+wget -c "${URL}M7 - 6 Spaces 12 Academy Yard/6 Spaces 12 Academy Yard R.wav" -P ${music}
+wget -c "${URL}M7 - 6 Spaces 12 Academy Yard/6 Spaces 12 Academy Yard L.wav" -P ${music}
+wget -c "${URL}M7 - 1 Halls 25 Saint Sylvain/1 Halls 25 Saint Sylvain  M-to-S.wav" -P ${music}
+wget -c "${URL}M7 - 1 Halls 25 Saint Sylvain/1 Halls 25 Saint Sylvain L.wav" -P ${music}
+wget -c "${URL}M7 - 1 Halls 25 Saint Sylvain/1 Halls 25 Saint Sylvain R.wav" -P ${music}
+wget -c "${URL}M7 - 2 Plates 10 Dense Plate/2 Plates 10 Dense Plate L.wav" -P ${music}
+wget -c "${URL}M7 - 2 Plates 10 Dense Plate/2 Plates 10 Dense Plate R.wav" -P ${music}
+wget -c "${URL}M7 - 2 Plates 10 Dense Plate/2 Plates 10 Dense Plate  M-to-S.wav" -P ${music}
+wget -c "${URL}M7 - 6 Spaces 17 Gated Space/6 Spaces 17 Gated Space R.wav" -P ${music}
+wget -c "${URL}M7 - 6 Spaces 17 Gated Space/6 Spaces 17 Gated Space L.wav" -P ${music}
+wget -c "${URL}M7 - 6 Spaces 17 Gated Space/6 Spaces 17 Gated Space  M-to-S.wav" -P ${music}
+wget -c "${URL}M7 - 1 Halls 14 Clear Hall/1 Halls 14 Clear Hall  M-to-S.wav" -P ${music}
+wget -c "${URL}M7 - 1 Halls 14 Clear Hall/1 Halls 14 Clear Hall R.wav" -P ${music}
+wget -c "${URL}M7 - 1 Halls 14 Clear Hall/1 Halls 14 Clear Hall L.wav" -P ${music}
+wget -c "${URL}M7 - 5 Ambiences 14 Bass XXL/5 Ambiences 14 Bass XXL R.wav" -P ${music}
+wget -c "${URL}M7 - 5 Ambiences 14 Bass XXL/5 Ambiences 14 Bass XXL L.wav" -P ${music}
+wget -c "${URL}M7 - 5 Ambiences 14 Bass XXL/5 Ambiences 14 Bass XXL  M-to-S.wav" -P ${music}
+wget -c "${URL}M7 - 5 Ambiences 13 Heavy Ambience/5 Ambiences 13 Heavy Ambience  M-to-S.wav" -P ${music}
+wget -c "${URL}M7 - 5 Ambiences 13 Heavy Ambience/5 Ambiences 13 Heavy Ambience L.wav" -P ${music}
+wget -c "${URL}M7 - 5 Ambiences 13 Heavy Ambience/5 Ambiences 13 Heavy Ambience R.wav" -P ${music}
+wget -c "${URL}M7 - 6 Spaces 09 Arena/6 Spaces 09 Arena R.wav" -P ${music}
+wget -c "${URL}M7 - 6 Spaces 09 Arena/6 Spaces 09 Arena  M-to-S.wav" -P ${music}
+wget -c "${URL}M7 - 6 Spaces 09 Arena/6 Spaces 09 Arena L.wav" -P ${music}
+wget -c "${URL}M7 - 2 Plates 09 Gold Plate/2 Plates 09 Gold Plate  M-to-S.wav" -P ${music}
+wget -c "${URL}M7 - 2 Plates 09 Gold Plate/2 Plates 09 Gold Plate L.wav" -P ${music}
+wget -c "${URL}M7 - 2 Plates 09 Gold Plate/2 Plates 09 Gold Plate R.wav" -P ${music}
+wget -c "${URL}M7 - 3 Rooms 08 Music Room/3 Rooms 08 Music Room  M-to-S.wav" -P ${music}
+wget -c "${URL}M7 - 3 Rooms 08 Music Room/3 Rooms 08 Music Room L.wav" -P ${music}
+wget -c "${URL}M7 - 3 Rooms 08 Music Room/3 Rooms 08 Music Room R.wav" -P ${music}
+wget -c "${URL}M7 - 3 Rooms 04 Studio C/3 Rooms 04 Studio C L.wav" -P ${music}
+wget -c "${URL}M7 - 3 Rooms 04 Studio C/3 Rooms 04 Studio C R.wav" -P ${music}
+wget -c "${URL}M7 - 3 Rooms 04 Studio C/3 Rooms 04 Studio C  M-to-S.wav" -P ${music}
+wget -c "${URL}M7 - 6 Spaces 04 West Church/6 Spaces 04 West Church L.wav" -P ${music}
+wget -c "${URL}M7 - 6 Spaces 04 West Church/6 Spaces 04 West Church  M-to-S.wav" -P ${music}
+wget -c "${URL}M7 - 6 Spaces 04 West Church/6 Spaces 04 West Church R.wav" -P ${music}
+wget -c "${URL}M7 - 4 Chambers 07 Small & Bright/4 Chambers 07 Small & Bright R.wav" -P ${music}
+wget -c "${URL}M7 - 4 Chambers 07 Small & Bright/4 Chambers 07 Small & Bright L.wav" -P ${music}
+wget -c "${URL}M7 - 4 Chambers 07 Small & Bright/4 Chambers 07 Small & Bright  M-to-S.wav" -P ${music}
+wget -c "${URL}M7 - 2 Plates 17 Small Plate/2 Plates 17 Small Plate L.wav" -P ${music}
+wget -c "${URL}M7 - 2 Plates 17 Small Plate/2 Plates 17 Small Plate  M-to-S.wav" -P ${music}
+wget -c "${URL}M7 - 2 Plates 17 Small Plate/2 Plates 17 Small Plate R.wav" -P ${music}
+wget -c "${URL}M7 - 4 Chambers 01 Large Chamber/4 Chambers 01 Large Chamber  M-to-S.wav" -P ${music}
+wget -c "${URL}M7 - 4 Chambers 01 Large Chamber/4 Chambers 01 Large Chamber L.wav" -P ${music}
+wget -c "${URL}M7 - 4 Chambers 01 Large Chamber/4 Chambers 01 Large Chamber R.wav" -P ${music}
+wget -c "${URL}M7 - 3 Rooms 29 Center Room/3 Rooms 29 Center Room R.wav" -P ${music}
+wget -c "${URL}M7 - 3 Rooms 29 Center Room/3 Rooms 29 Center Room  M-to-S.wav" -P ${music}
+wget -c "${URL}M7 - 3 Rooms 29 Center Room/3 Rooms 29 Center Room L.wav" -P ${music}
+wget -c "${URL}M7 - 4 Chambers 15 Amb Chamber A/4 Chambers 15 Amb Chamber A R.wav" -P ${music}
+wget -c "${URL}M7 - 4 Chambers 15 Amb Chamber A/4 Chambers 15 Amb Chamber A  M-to-S.wav" -P ${music}
+wget -c "${URL}M7 - 4 Chambers 15 Amb Chamber A/4 Chambers 15 Amb Chamber A L.wav" -P ${music}
+wget -c "${URL}M7 - 3 Rooms 06 Studio E/3 Rooms 06 Studio E R.wav" -P ${music}
+wget -c "${URL}M7 - 3 Rooms 06 Studio E/3 Rooms 06 Studio E L.wav" -P ${music}
+wget -c "${URL}M7 - 3 Rooms 06 Studio E/3 Rooms 06 Studio E  M-to-S.wav" -P ${music}
+wget -c "${URL}M7 - 1 Halls 02 Medium Hall/1 Halls 02 Medium Hall R.wav" -P ${music}
+wget -c "${URL}M7 - 1 Halls 02 Medium Hall/1 Halls 02 Medium Hall  M-to-S.wav" -P ${music}
+wget -c "${URL}M7 - 1 Halls 02 Medium Hall/1 Halls 02 Medium Hall L.wav" -P ${music}
+wget -c "${URL}M7 - 4 Chambers 14 Deep Chamber/4 Chambers 14 Deep Chamber L.wav" -P ${music}
+wget -c "${URL}M7 - 4 Chambers 14 Deep Chamber/4 Chambers 14 Deep Chamber  M-to-S.wav" -P ${music}
+wget -c "${URL}M7 - 4 Chambers 14 Deep Chamber/4 Chambers 14 Deep Chamber R.wav" -P ${music}
+wget -c "${URL}M7 - 2 Plates 05 Snare Plate B/2 Plates 05 Snare Plate B L.wav" -P ${music}
+wget -c "${URL}M7 - 2 Plates 05 Snare Plate B/2 Plates 05 Snare Plate B R.wav" -P ${music}
+wget -c "${URL}M7 - 2 Plates 05 Snare Plate B/2 Plates 05 Snare Plate B  M-to-S.wav" -P ${music}
+wget -c "${URL}M7 - 4 Chambers 02 Medium Chamber/4 Chambers 02 Medium Chamber  M-to-S.wav" -P ${music}
+wget -c "${URL}M7 - 4 Chambers 02 Medium Chamber/4 Chambers 02 Medium Chamber L.wav" -P ${music}
+wget -c "${URL}M7 - 4 Chambers 02 Medium Chamber/4 Chambers 02 Medium Chamber R.wav" -P ${music}
+wget -c "${URL}M7 - 5 Ambiences 05 Medium & Dark/5 Ambiences 05 Medium & Dark R.wav" -P ${music}
+wget -c "${URL}M7 - 5 Ambiences 05 Medium & Dark/5 Ambiences 05 Medium & Dark L.wav" -P ${music}
+wget -c "${URL}M7 - 5 Ambiences 05 Medium & Dark/5 Ambiences 05 Medium & Dark  M-to-S.wav" -P ${music}
+wget -c "${URL}M7 - 3 Rooms 12 Large Tiled Room/3 Rooms 12 Large Tiled Room L.wav" -P ${music}
+wget -c "${URL}M7 - 3 Rooms 12 Large Tiled Room/3 Rooms 12 Large Tiled Room R.wav" -P ${music}
+wget -c "${URL}M7 - 3 Rooms 12 Large Tiled Room/3 Rooms 12 Large Tiled Room  M-to-S.wav" -P ${music}
+wget -c "${URL}M7 - 1 Halls 09 Medium & Deep/1 Halls 09 Medium & Deep  M-to-S.wav" -P ${music}
+wget -c "${URL}M7 - 1 Halls 09 Medium & Deep/1 Halls 09 Medium & Deep L.wav" -P ${music}
+wget -c "${URL}M7 - 1 Halls 09 Medium & Deep/1 Halls 09 Medium & Deep R.wav" -P ${music}
+wget -c "${URL}M7 - 1 Halls 10 Concert Hall/1 Halls 10 Concert Hall L.wav" -P ${music}
+wget -c "${URL}M7 - 1 Halls 10 Concert Hall/1 Halls 10 Concert Hall  M-to-S.wav" -P ${music}
+wget -c "${URL}M7 - 1 Halls 10 Concert Hall/1 Halls 10 Concert Hall R.wav" -P ${music}
+wget -c "${URL}M7 - 3 Rooms 34 Oakland Room/3 Rooms 34 Oakland Room L.wav" -P ${music}
+wget -c "${URL}M7 - 3 Rooms 34 Oakland Room/3 Rooms 34 Oakland Room R.wav" -P ${music}
+wget -c "${URL}M7 - 3 Rooms 34 Oakland Room/3 Rooms 34 Oakland Room  M-to-S.wav" -P ${music}
+wget -c "${URL}M7 - 3 Rooms 19 Percussion Room/3 Rooms 19 Percussion Room L.wav" -P ${music}
+wget -c "${URL}M7 - 3 Rooms 19 Percussion Room/3 Rooms 19 Percussion Room R.wav" -P ${music}
+wget -c "${URL}M7 - 3 Rooms 19 Percussion Room/3 Rooms 19 Percussion Room  M-to-S.wav" -P ${music}
+wget -c "${URL}M7 - 5 Ambiences 12 Clear Ambience/5 Ambiences 12 Clear Ambience  M-to-S.wav" -P ${music}
+wget -c "${URL}M7 - 5 Ambiences 12 Clear Ambience/5 Ambiences 12 Clear Ambience R.wav" -P ${music}
+wget -c "${URL}M7 - 5 Ambiences 12 Clear Ambience/5 Ambiences 12 Clear Ambience L.wav" -P ${music}
+wget -c "${URL}M7 - 5 Ambiences 08 Medium & Bright/5 Ambiences 08 Medium & Bright L.wav" -P ${music}
+wget -c "${URL}M7 - 5 Ambiences 08 Medium & Bright/5 Ambiences 08 Medium & Bright R.wav" -P ${music}
+wget -c "${URL}M7 - 5 Ambiences 08 Medium & Bright/5 Ambiences 08 Medium & Bright  M-to-S.wav" -P ${music}
+wget -c "${URL}M7 - 6 Spaces 02 East Church/6 Spaces 02 East Church R.wav" -P ${music}
+wget -c "${URL}M7 - 6 Spaces 02 East Church/6 Spaces 02 East Church  M-to-S.wav" -P ${music}
+wget -c "${URL}M7 - 6 Spaces 02 East Church/6 Spaces 02 East Church L.wav" -P ${music}
+wget -c "${URL}M7 - 6 Spaces 03 South Church/6 Spaces 03 South Church L.wav" -P ${music}
+wget -c "${URL}M7 - 6 Spaces 03 South Church/6 Spaces 03 South Church R.wav" -P ${music}
+wget -c "${URL}M7 - 6 Spaces 03 South Church/6 Spaces 03 South Church  M-to-S.wav" -P ${music}
+wget -c "${URL}M7 - 1 Halls 15 Brass Hall/1 Halls 15 Brass Hall R.wav" -P ${music}
+wget -c "${URL}M7 - 1 Halls 15 Brass Hall/1 Halls 15 Brass Hall  M-to-S.wav" -P ${music}
+wget -c "${URL}M7 - 1 Halls 15 Brass Hall/1 Halls 15 Brass Hall L.wav" -P ${music}
+wget -c "${URL}M7 - 2 Plates 18 Fat Plate/2 Plates 18 Fat Plate L.wav" -P ${music}
+wget -c "${URL}M7 - 2 Plates 18 Fat Plate/2 Plates 18 Fat Plate  M-to-S.wav" -P ${music}
+wget -c "${URL}M7 - 2 Plates 18 Fat Plate/2 Plates 18 Fat Plate R.wav" -P ${music}
+wget -c "${URL}M7 - 2 Plates 14 CD Plate A/2 Plates 14 CD Plate A R.wav" -P ${music}
+wget -c "${URL}M7 - 2 Plates 14 CD Plate A/2 Plates 14 CD Plate A L.wav" -P ${music}
+wget -c "${URL}M7 - 2 Plates 14 CD Plate A/2 Plates 14 CD Plate A  M-to-S.wav" -P ${music}
+wget -c "${URL}M7 - 1 Halls 12 Sandors Hall/1 Halls 12 Sandors Hall  M-to-S.wav" -P ${music}
+wget -c "${URL}M7 - 1 Halls 12 Sandors Hall/1 Halls 12 Sandors Hall R.wav" -P ${music}
+wget -c "${URL}M7 - 1 Halls 12 Sandors Hall/1 Halls 12 Sandors Hall L.wav" -P ${music}
+wget -c "${URL}M7 - 4 Chambers 05 Small & Dark/4 Chambers 05 Small & Dark  M-to-S.wav" -P ${music}
+wget -c "${URL}M7 - 4 Chambers 05 Small & Dark/4 Chambers 05 Small & Dark L.wav" -P ${music}
+wget -c "${URL}M7 - 4 Chambers 05 Small & Dark/4 Chambers 05 Small & Dark R.wav" -P ${music}
+wget -c "${URL}M7 - 1 Halls 27 Saint Gerold/1 Halls 27 Saint Gerold L.wav" -P ${music}
+wget -c "${URL}M7 - 1 Halls 27 Saint Gerold/1 Halls 27 Saint Gerold R.wav" -P ${music}
+wget -c "${URL}M7 - 1 Halls 27 Saint Gerold/1 Halls 27 Saint Gerold  M-to-S.wav" -P ${music}
+wget -c "${URL}M7 - 1 Halls 20 Chicago Hall/1 Halls 20 Chicago Hall  M-to-S.wav" -P ${music}
+wget -c "${URL}M7 - 1 Halls 20 Chicago Hall/1 Halls 20 Chicago Hall R.wav" -P ${music}
+wget -c "${URL}M7 - 1 Halls 20 Chicago Hall/1 Halls 20 Chicago Hall L.wav" -P ${music}
+wget -c "${URL}M7 - 1 Halls 08 Large & Deep/1 Halls 08 Large & Deep R.wav" -P ${music}
+wget -c "${URL}M7 - 1 Halls 08 Large & Deep/1 Halls 08 Large & Deep  M-to-S.wav" -P ${music}
+wget -c "${URL}M7 - 1 Halls 08 Large & Deep/1 Halls 08 Large & Deep L.wav" -P ${music}
+wget -c "${URL}M7 - 3 Rooms 21 Large & Room/3 Rooms 20 Large & Room R.wav" -P ${music}
+wget -c "${URL}M7 - 3 Rooms 21 Large & Room/3 Rooms 20 Large & Room  M-to-S.wav" -P ${music}
+wget -c "${URL}M7 - 3 Rooms 21 Large & Room/3 Rooms 20 Large & Room L.wav" -P ${music}
+wget -c "${URL}M7 - 3 Rooms 22 Small & Room/3 Rooms 22 Small & Room L.wav" -P ${music}
+wget -c "${URL}M7 - 3 Rooms 22 Small & Room/3 Rooms 22 Small & Room R.wav" -P ${music}
+wget -c "${URL}M7 - 3 Rooms 22 Small & Room/3 Rooms 22 Small & Room  M-to-S.wav" -P ${music}
+wget -c "${URL}M7 - 2 Plates 07 Old Plate/2 Plates 07 Old Plate L.wav" -P ${music}
+wget -c "${URL}M7 - 2 Plates 07 Old Plate/2 Plates 07 Old Plate R.wav" -P ${music}
+wget -c "${URL}M7 - 2 Plates 07 Old Plate/2 Plates 07 Old Plate  M-to-S.wav" -P ${music}
+wget -c "${URL}M7 - 5 Ambiences 09 Small & Bright/5 Ambiences 09 Small & Bright R.wav" -P ${music}
+wget -c "${URL}M7 - 5 Ambiences 09 Small & Bright/5 Ambiences 09 Small & Bright  M-to-S.wav" -P ${music}
+wget -c "${URL}M7 - 5 Ambiences 09 Small & Bright/5 Ambiences 09 Small & Bright L.wav" -P ${music}
+wget -c "${URL}M7 - 2 Plates 15 CD Plate B/2 Plates 15 CD Plate B  M-to-S.wav" -P ${music}
+wget -c "${URL}M7 - 2 Plates 15 CD Plate B/2 Plates 15 CD Plate B R.wav" -P ${music}
+wget -c "${URL}M7 - 2 Plates 15 CD Plate B/2 Plates 15 CD Plate B L.wav" -P ${music}
+wget -c "${URL}M7 - 4 Chambers 03 Small Chamber/4 Chambers 03 Small Chamber L.wav" -P ${music}
+wget -c "${URL}M7 - 4 Chambers 03 Small Chamber/4 Chambers 03 Small Chamber R.wav" -P ${music}
+wget -c "${URL}M7 - 4 Chambers 03 Small Chamber/4 Chambers 03 Small Chamber  M-to-S.wav" -P ${music}
+wget -c "${URL}M7 - 1 Halls 07 Large & Dark/1 Halls 07 Large & Dark R.wav" -P ${music}
+wget -c "${URL}M7 - 1 Halls 07 Large & Dark/1 Halls 07 Large & Dark L.wav" -P ${music}
+wget -c "${URL}M7 - 1 Halls 07 Large & Dark/1 Halls 07 Large & Dark  M-to-S.wav" -P ${music}
+wget -c "${URL}M7 - 3 Rooms 31 Studio K/3 Rooms 31 Studio K  M-to-S.wav" -P ${music}
+wget -c "${URL}M7 - 3 Rooms 31 Studio K/3 Rooms 31 Studio K L.wav" -P ${music}
+wget -c "${URL}M7 - 3 Rooms 31 Studio K/3 Rooms 31 Studio K R.wav" -P ${music}
+wget -c "${URL}M7 - 6 Spaces 10 Redwood Valley/6 Spaces 10 Redwood Valley L.wav" -P ${music}
+wget -c "${URL}M7 - 6 Spaces 10 Redwood Valley/6 Spaces 10 Redwood Valley  M-to-S.wav" -P ${music}
+wget -c "${URL}M7 - 6 Spaces 10 Redwood Valley/6 Spaces 10 Redwood Valley R.wav" -P ${music}
+wget -c "${URL}M7 - 5 Ambiences 06 Small & Dark/5 Ambiences 06 Small & Dark  M-to-S.wav" -P ${music}
+wget -c "${URL}M7 - 5 Ambiences 06 Small & Dark/5 Ambiences 06 Small & Dark R.wav" -P ${music}
+wget -c "${URL}M7 - 5 Ambiences 06 Small & Dark/5 Ambiences 06 Small & Dark L.wav" -P ${music}
+wget -c "${URL}M7 - 4 Chambers 10 Vocal Chamber/4 Chambers 10 Vocal Chamber R.wav" -P ${music}
+wget -c "${URL}M7 - 4 Chambers 10 Vocal Chamber/4 Chambers 10 Vocal Chamber L.wav" -P ${music}
+wget -c "${URL}M7 - 4 Chambers 10 Vocal Chamber/4 Chambers 10 Vocal Chamber  M-to-S.wav" -P ${music}
+wget -c "${URL}M7 - 1 Halls 13 Dense Hall/1 Halls 13 Dense Hall L.wav" -P ${music}
+wget -c "${URL}M7 - 1 Halls 13 Dense Hall/1 Halls 13 Dense Hall R.wav" -P ${music}
+wget -c "${URL}M7 - 1 Halls 13 Dense Hall/1 Halls 13 Dense Hall  M-to-S.wav" -P ${music}
+wget -c "${URL}M7 - 2 Plates 03 London Plate/2 Plates 03 London Plate  M-to-S.wav" -P ${music}
+wget -c "${URL}M7 - 2 Plates 03 London Plate/2 Plates 03 London Plate L.wav" -P ${music}
+wget -c "${URL}M7 - 2 Plates 03 London Plate/2 Plates 03 London Plate R.wav" -P ${music}
+wget -c "${URL}M7 - 1 Halls 05 Medium & Near/1 Halls 05 Medium & Near  M-to-S.wav" -P ${music}
+wget -c "${URL}M7 - 1 Halls 05 Medium & Near/1 Halls 05 Medium & Near R.wav" -P ${music}
+wget -c "${URL}M7 - 1 Halls 05 Medium & Near/1 Halls 05 Medium & Near L.wav" -P ${music}
+wget -c "${URL}M7 - 6 Spaces 05 Cinema Room/6 Spaces 05 Cinema Room R.wav" -P ${music}
+wget -c "${URL}M7 - 6 Spaces 05 Cinema Room/6 Spaces 05 Cinema Room L.wav" -P ${music}
+wget -c "${URL}M7 - 6 Spaces 05 Cinema Room/6 Spaces 05 Cinema Room  M-to-S.wav" -P ${music}
+wget -c "${URL}M7 - 6 Spaces 13 Hillside/6 Spaces 13 Hillside R.wav" -P ${music}
+wget -c "${URL}M7 - 6 Spaces 13 Hillside/6 Spaces 13 Hillside  M-to-S.wav" -P ${music}
+wget -c "${URL}M7 - 6 Spaces 13 Hillside/6 Spaces 13 Hillside L.wav" -P ${music}
+wget -c "${URL}M7 - 2 Plates 04 Snare Plate A/2 Plates 04 Snare Plate A R.wav" -P ${music}
+wget -c "${URL}M7 - 2 Plates 04 Snare Plate A/2 Plates 04 Snare Plate A L.wav" -P ${music}
+wget -c "${URL}M7 - 2 Plates 04 Snare Plate A/2 Plates 04 Snare Plate A  M-to-S.wav" -P ${music}
+wget -c "${URL}M7 - 3 Rooms 17 Small Vox Room/3 Rooms 17 Small Vox Room  M-to-S.wav" -P ${music}
+wget -c "${URL}M7 - 3 Rooms 17 Small Vox Room/3 Rooms 17 Small Vox Room R.wav" -P ${music}
+wget -c "${URL}M7 - 3 Rooms 17 Small Vox Room/3 Rooms 17 Small Vox Room L.wav" -P ${music}
+wget -c "${URL}M7 - 6 Spaces 14 Cavern/6 Spaces 14 Cavern L.wav" -P ${music}
+wget -c "${URL}M7 - 6 Spaces 14 Cavern/6 Spaces 14 Cavern  M-to-S.wav" -P ${music}
+wget -c "${URL}M7 - 6 Spaces 14 Cavern/6 Spaces 14 Cavern R.wav" -P ${music}
+wget -c "${URL}M7 - 3 Rooms 32 Waits Room/3 Rooms 32 Waits Room  M-to-S.wav" -P ${music}
+wget -c "${URL}M7 - 3 Rooms 32 Waits Room/3 Rooms 32 Waits Room R.wav" -P ${music}
+wget -c "${URL}M7 - 3 Rooms 32 Waits Room/3 Rooms 32 Waits Room L.wav" -P ${music}
+wget -c "${URL}M7 - 6 Spaces 16 Europa/6 Spaces 16 Europa L.wav" -P ${music}
+wget -c "${URL}M7 - 6 Spaces 16 Europa/6 Spaces 16 Europa  M-to-S.wav" -P ${music}
+wget -c "${URL}M7 - 6 Spaces 16 Europa/6 Spaces 16 Europa R.wav" -P ${music}
+wget -c "${URL}M7 - 3 Rooms 09 Heavy Room/3 Rooms 09 Heavy Room R.wav" -P ${music}
+wget -c "${URL}M7 - 3 Rooms 09 Heavy Room/3 Rooms 09 Heavy Room L.wav" -P ${music}
+wget -c "${URL}M7 - 3 Rooms 09 Heavy Room/3 Rooms 09 Heavy Room  M-to-S.wav" -P ${music}
+wget -c "${URL}M7 - 3 Rooms 11 Small Wooden Room/3 Rooms 11 Small Wooden Room R.wav" -P ${music}
+wget -c "${URL}M7 - 3 Rooms 11 Small Wooden Room/3 Rooms 11 Small Wooden Room  M-to-S.wav" -P ${music}
+wget -c "${URL}M7 - 3 Rooms 11 Small Wooden Room/3 Rooms 11 Small Wooden Room L.wav" -P ${music}
+wget -c "${URL}M7 - 5 Ambiences 01 Large Ambience/5 Ambiences 01 Large Ambience R.wav" -P ${music}
+wget -c "${URL}M7 - 5 Ambiences 01 Large Ambience/5 Ambiences 01 Large Ambience  M-to-S.wav" -P ${music}
+wget -c "${URL}M7 - 5 Ambiences 01 Large Ambience/5 Ambiences 01 Large Ambience L.wav" -P ${music}
+wget -c "${URL}M7 - 1 Halls 04 Large & Near/1 Halls 04 Large & Near  M-to-S.wav" -P ${music}
+wget -c "${URL}M7 - 1 Halls 04 Large & Near/1 Halls 04 Large & Near L.wav" -P ${music}
+wget -c "${URL}M7 - 1 Halls 04 Large & Near/1 Halls 04 Large & Near R.wav" -P ${music}
+wget -c "${URL}M7 - 3 Rooms 24 Red Room/3 Rooms 24 Red Room L.wav" -P ${music}
+wget -c "${URL}M7 - 3 Rooms 24 Red Room/3 Rooms 24 Red Room  M-to-S.wav" -P ${music}
+wget -c "${URL}M7 - 3 Rooms 24 Red Room/3 Rooms 24 Red Room R.wav" -P ${music}
+wget -c "${URL}M7 - 3 Rooms 28 Front Room/3 Rooms 28 Front Room R.wav" -P ${music}
+wget -c "${URL}M7 - 3 Rooms 28 Front Room/3 Rooms 28 Front Room L.wav" -P ${music}
+wget -c "${URL}M7 - 3 Rooms 28 Front Room/3 Rooms 28 Front Room  M-to-S.wav" -P ${music}
+wget -c "${URL}M7 - 5 Ambiences 11 Long Ambience/5 Ambiences 11 Long Ambience  M-to-S.wav" -P ${music}
+wget -c "${URL}M7 - 5 Ambiences 11 Long Ambience/5 Ambiences 11 Long Ambience R.wav" -P ${music}
+wget -c "${URL}M7 - 5 Ambiences 11 Long Ambience/5 Ambiences 11 Long Ambience L.wav" -P ${music}
+wget -c "${URL}M7 - 2 Plates 22 Sun Plate C/2 Plates 22 Sun Plate C  M-to-S.wav" -P ${music}
+wget -c "${URL}M7 - 2 Plates 22 Sun Plate C/2 Plates 22 Sun Plate C R.wav" -P ${music}
+wget -c "${URL}M7 - 2 Plates 22 Sun Plate C/2 Plates 22 Sun Plate C L.wav" -P ${music}
+wget -c "${URL}M7 - 3 Rooms 33 Corn Room/3 Rooms 33 Corn Room  L.wav" -P ${music}
+wget -c "${URL}M7 - 3 Rooms 33 Corn Room/3 Rooms 33 Corn Room  R.wav" -P ${music}
+wget -c "${URL}M7 - 3 Rooms 33 Corn Room/3 Rooms 33 Corn Room   M-to-S.wav" -P ${music}
+wget -c "${URL}M7 - 1 Halls 23 The ArchDuke/1 Halls 23 The ArchDuke  M-to-S.wav" -P ${music}
+wget -c "${URL}M7 - 1 Halls 23 The ArchDuke/1 Halls 23 The ArchDuke L.wav" -P ${music}
+wget -c "${URL}M7 - 1 Halls 23 The ArchDuke/1 Halls 23 The ArchDuke R.wav" -P ${music}
+wget -c "${URL}M7 - 3 Rooms 10 Large Wooden Room/3 Rooms 10 Large Wooden Room  M-to-S.wav" -P ${music}
+wget -c "${URL}M7 - 3 Rooms 10 Large Wooden Room/3 Rooms 10 Large Wooden Room L.wav" -P ${music}
+wget -c "${URL}M7 - 3 Rooms 10 Large Wooden Room/3 Rooms 10 Large Wooden Room R.wav" -P ${music}
+wget -c "${URL}M7 - 5 Ambiences 02 Medium Ambience/5 Ambiences 02 Medium Ambience L.wav" -P ${music}
+wget -c "${URL}M7 - 5 Ambiences 02 Medium Ambience/5 Ambiences 02 Medium Ambience  M-to-S.wav" -P ${music}
+wget -c "${URL}M7 - 5 Ambiences 02 Medium Ambience/5 Ambiences 02 Medium Ambience R.wav" -P ${music}
+wget -c "${URL}M7 - 1 Halls 26 Mechanics Hall/1 Halls 26 Mechanics Hall L.wav" -P ${music}
+wget -c "${URL}M7 - 1 Halls 26 Mechanics Hall/1 Halls 26 Mechanics Hall R.wav" -P ${music}
+wget -c "${URL}M7 - 1 Halls 26 Mechanics Hall/1 Halls 26 Mechanics Hall  M-to-S.wav" -P ${music}
+wget -c "${URL}M7 - 1 Halls 22 Worcester Hall/1 Halls 22 Worcester Hall R.wav" -P ${music}
+wget -c "${URL}M7 - 1 Halls 22 Worcester Hall/1 Halls 22 Worcester Hall L.wav" -P ${music}
+wget -c "${URL}M7 - 1 Halls 22 Worcester Hall/1 Halls 22 Worcester Hall  M-to-S.wav" -P ${music}
+wget -c "${URL}M7 - 3 Rooms 05 Studio D/3 Rooms 05 Studio D  M-to-S.wav" -P ${music}
+wget -c "${URL}M7 - 3 Rooms 05 Studio D/3 Rooms 05 Studio D R.wav" -P ${music}
+wget -c "${URL}M7 - 3 Rooms 05 Studio D/3 Rooms 05 Studio D L.wav" -P ${music}
+wget -c "${URL}M7 - 3 Rooms 01 Studio A/3 Rooms 01 Studio A  M-to-S.wav" -P ${music}
+wget -c "${URL}M7 - 3 Rooms 01 Studio A/3 Rooms 01 Studio A R.wav" -P ${music}
+wget -c "${URL}M7 - 3 Rooms 01 Studio A/3 Rooms 01 Studio A L.wav" -P ${music}
+wget -c "${URL}M7 - 6 Spaces 11 Tanglewood/6 Spaces 11 Tanglewood L.wav" -P ${music}
+wget -c "${URL}M7 - 6 Spaces 11 Tanglewood/6 Spaces 11 Tanglewood  M-to-S.wav" -P ${music}
+wget -c "${URL}M7 - 6 Spaces 11 Tanglewood/6 Spaces 11 Tanglewood R.wav" -P ${music}
+wget -c "${URL}M7 - 2 Plates 06 Vocal Plate/2 Plates 06 Vocal Plate R.wav" -P ${music}
+wget -c "${URL}M7 - 2 Plates 06 Vocal Plate/2 Plates 06 Vocal Plate L.wav" -P ${music}
+wget -c "${URL}M7 - 2 Plates 06 Vocal Plate/2 Plates 06 Vocal Plate  M-to-S.wav" -P ${music}
+wget -c "${URL}M7 - 4 Chambers 04 Large & Dark/4 Chambers 04 Large & Dark L.wav" -P ${music}
+wget -c "${URL}M7 - 4 Chambers 04 Large & Dark/4 Chambers 04 Large & Dark  M-to-S.wav" -P ${music}
+wget -c "${URL}M7 - 4 Chambers 04 Large & Dark/4 Chambers 04 Large & Dark R.wav" -P ${music}
+wget -c "${URL}M7 - 3 Rooms 30 Back Room/3 Rooms 30 Back Room  M-to-S.wav" -P ${music}
+wget -c "${URL}M7 - 3 Rooms 30 Back Room/3 Rooms 30 Back Room R.wav" -P ${music}
+wget -c "${URL}M7 - 3 Rooms 30 Back Room/3 Rooms 30 Back Room L.wav" -P ${music}
+wget -c "${URL}M7 - 5 Ambiences 15 Percussion Air/5 Ambiences 15 Percussion Air R.wav" -P ${music}
+wget -c "${URL}M7 - 5 Ambiences 15 Percussion Air/5 Ambiences 15 Percussion Air  M-to-S.wav" -P ${music}
+wget -c "${URL}M7 - 5 Ambiences 15 Percussion Air/5 Ambiences 15 Percussion Air L.wav" -P ${music}
+wget -c "${URL}M7 - 3 Rooms 20 Marble Foyer/3 Rooms 20 Marble Foyer L.wav" -P ${music}
+wget -c "${URL}M7 - 3 Rooms 20 Marble Foyer/3 Rooms 20 Marble Foyer R.wav" -P ${music}
+wget -c "${URL}M7 - 3 Rooms 20 Marble Foyer/3 Rooms 20 Marble Foyer  M-to-S.wav" -P ${music}
+wget -c "${URL}M7 - 6 Spaces 06 Scoring Stage/6 Spaces 06 Scoring Stage  M-to-S.wav" -P ${music}
+wget -c "${URL}M7 - 6 Spaces 06 Scoring Stage/6 Spaces 06 Scoring Stage R.wav" -P ${music}
+wget -c "${URL}M7 - 6 Spaces 06 Scoring Stage/6 Spaces 06 Scoring Stage L.wav" -P ${music}
+wget -c "${URL}M7 - 6 Spaces 07 Bath House/6 Spaces 07 Bath House  M-to-S.wav" -P ${music}
+wget -c "${URL}M7 - 6 Spaces 07 Bath House/6 Spaces 07 Bath House R.wav" -P ${music}
+wget -c "${URL}M7 - 6 Spaces 07 Bath House/6 Spaces 07 Bath House L.wav" -P ${music}
+wget -c "${URL}M7 - 3 Rooms 27 Small Room/3 Rooms 27 Small Room R.wav" -P ${music}
+wget -c "${URL}M7 - 3 Rooms 27 Small Room/3 Rooms 27 Small Room  M-to-S.wav" -P ${music}
+wget -c "${URL}M7 - 3 Rooms 27 Small Room/3 Rooms 27 Small Room L.wav" -P ${music}
+wget -c "${URL}M7 - 4 Chambers 11 A&M Chamber/4 Chambers 11 A&M Chamber L.wav" -P ${music}
+wget -c "${URL}M7 - 4 Chambers 11 A&M Chamber/4 Chambers 11 A&M Chamber  M-to-S.wav" -P ${music}
+wget -c "${URL}M7 - 4 Chambers 11 A&M Chamber/4 Chambers 11 A&M Chamber R.wav" -P ${music}
+wget -c "${URL}M7 - 3 Rooms 18 Glass Room/3 Rooms 18 Glass Room R.wav" -P ${music}
+wget -c "${URL}M7 - 3 Rooms 18 Glass Room/3 Rooms 18 Glass Room  M-to-S.wav" -P ${music}
+wget -c "${URL}M7 - 3 Rooms 18 Glass Room/3 Rooms 18 Glass Room L.wav" -P ${music}
+wget -c "${URL}M7 - 2 Plates 20 Sun Plate A/2 Plates 20 Sun Plate A L.wav" -P ${music}
+wget -c "${URL}M7 - 2 Plates 20 Sun Plate A/2 Plates 20 Sun Plate A  M-to-S.wav" -P ${music}
+wget -c "${URL}M7 - 2 Plates 20 Sun Plate A/2 Plates 20 Sun Plate A R.wav" -P ${music}
+wget -c "${URL}M7 - 3 Rooms 07 Deep Stone/3 Rooms 07 Deep Stone  M-to-S.wav" -P ${music}
+wget -c "${URL}M7 - 3 Rooms 07 Deep Stone/3 Rooms 07 Deep Stone L.wav" -P ${music}
+wget -c "${URL}M7 - 3 Rooms 07 Deep Stone/3 Rooms 07 Deep Stone R.wav" -P ${music}
+wget -c "${URL}M7 - 3 Rooms 14 Small Tiled Room/3 Rooms 14 Small Tiled Room L.wav" -P ${music}
+wget -c "${URL}M7 - 3 Rooms 14 Small Tiled Room/3 Rooms 14 Small Tiled Room  M-to-S.wav" -P ${music}
+wget -c "${URL}M7 - 3 Rooms 14 Small Tiled Room/3 Rooms 14 Small Tiled Room R.wav" -P ${music}
+wget -c "${URL}M7 - 4 Chambers 13 Old Chamber/4 Chambers 13 Old Chamber R.wav" -P ${music}
+wget -c "${URL}M7 - 4 Chambers 13 Old Chamber/4 Chambers 13 Old Chamber L.wav" -P ${music}
+wget -c "${URL}M7 - 4 Chambers 13 Old Chamber/4 Chambers 13 Old Chamber  M-to-S.wav" -P ${music}
+wget -c "${URL}M7 - 6 Spaces 01 North Church/6 Spaces 01 North Church  M-to-S.wav" -P ${music}
+wget -c "${URL}M7 - 6 Spaces 01 North Church/6 Spaces 01 North Church R.wav" -P ${music}
+wget -c "${URL}M7 - 6 Spaces 01 North Church/6 Spaces 01 North Church L.wav" -P ${music}
+wget -c "${URL}M7 - 2 Plates 16 Large Plate/2 Plates 16 Large Plate R.wav" -P ${music}
+wget -c "${URL}M7 - 2 Plates 16 Large Plate/2 Plates 16 Large Plate  M-to-S.wav" -P ${music}
+wget -c "${URL}M7 - 2 Plates 16 Large Plate/2 Plates 16 Large Plate L.wav" -P ${music}
+wget -c "${URL}M7 - 5 Ambiences 10 Deep Ambience/5 Ambiences 10 Deep Ambience L.wav" -P ${music}
+wget -c "${URL}M7 - 5 Ambiences 10 Deep Ambience/5 Ambiences 10 Deep Ambience R.wav" -P ${music}
+wget -c "${URL}M7 - 5 Ambiences 10 Deep Ambience/5 Ambiences 10 Deep Ambience  M-to-S.wav" -P ${music}
+wget -c "${URL}M7 - 1 Halls 24 Troy Music Hall/1 Halls 24 Troy Music Hall L.wav" -P ${music}
+wget -c "${URL}M7 - 1 Halls 24 Troy Music Hall/1 Halls 24 Troy Music Hall R.wav" -P ${music}
+wget -c "${URL}M7 - 1 Halls 24 Troy Music Hall/1 Halls 24 Troy Music Hall  M-to-S.wav" -P ${music}
+wget -c "${URL}M7 - 3 Rooms 02 Studio B Close/3 Rooms 02 Studio B Close L.wav" -P ${music}
+wget -c "${URL}M7 - 3 Rooms 02 Studio B Close/3 Rooms 02 Studio B Close R.wav" -P ${music}
+wget -c "${URL}M7 - 3 Rooms 02 Studio B Close/3 Rooms 02 Studio B Close  M-to-S.wav" -P ${music}
+wget -c "${URL}M7 - 2 Plates 13 Echo Plate/2 Plates 13 Echo Plate L.wav" -P ${music}
+wget -c "${URL}M7 - 2 Plates 13 Echo Plate/2 Plates 13 Echo Plate  M-to-S.wav" -P ${music}
+wget -c "${URL}M7 - 2 Plates 13 Echo Plate/2 Plates 13 Echo Plate R.wav" -P ${music}
+wget -c "${URL}M7 - 5 Ambiences 04 Large & Dark/5 Ambiences 04 Large & Dark R.wav" -P ${music}
+wget -c "${URL}M7 - 5 Ambiences 04 Large & Dark/5 Ambiences 04 Large & Dark L.wav" -P ${music}
+wget -c "${URL}M7 - 5 Ambiences 04 Large & Dark/5 Ambiences 04 Large & Dark  M-to-S.wav" -P ${music}
+wget -c "${URL}M7 - 2 Plates 12 Percussion Plate/2 Plates 12 Percussion Plate R.wav" -P ${music}
+wget -c "${URL}M7 - 2 Plates 12 Percussion Plate/2 Plates 12 Percussion Plate  M-to-S.wav" -P ${music}
+wget -c "${URL}M7 - 2 Plates 12 Percussion Plate/2 Plates 12 Percussion Plate L.wav" -P ${music}
+wget -c "${URL}M7 - 6 Spaces 15 Stone Quarry/6 Spaces 15 Stone Quarry  M-to-S.wav" -P ${music}
+wget -c "${URL}M7 - 6 Spaces 15 Stone Quarry/6 Spaces 15 Stone Quarry R.wav" -P ${music}
+wget -c "${URL}M7 - 6 Spaces 15 Stone Quarry/6 Spaces 15 Stone Quarry L.wav" -P ${music}
+wget -c "${URL}M7 - 3 Rooms 25 Blue Room/3 Rooms 25 Blue Room L.wav" -P ${music}
+wget -c "${URL}M7 - 3 Rooms 25 Blue Room/3 Rooms 25 Blue Room R.wav" -P ${music}
+wget -c "${URL}M7 - 3 Rooms 25 Blue Room/3 Rooms 25 Blue Room  M-to-S.wav" -P ${music}
+wget -c "${URL}M7 - 2 Plates 11 Silver Plate/2 Plates 11 Silver Plate R.wav" -P ${music}
+wget -c "${URL}M7 - 2 Plates 11 Silver Plate/2 Plates 11 Silver Plate  M-to-S.wav" -P ${music}
+wget -c "${URL}M7 - 2 Plates 11 Silver Plate/2 Plates 11 Silver Plate L.wav" -P ${music}
+wget -c "${URL}M7 - 3 Rooms 15 Drum & Chamber/3 Rooms 15 Drum & Chamber L.wav" -P ${music}
+wget -c "${URL}M7 - 3 Rooms 15 Drum & Chamber/3 Rooms 15 Drum & Chamber  M-to-S.wav" -P ${music}
+wget -c "${URL}M7 - 3 Rooms 15 Drum & Chamber/3 Rooms 15 Drum & Chamber R.wav" -P ${music}
+wget -c "${URL}M7 - 1 Halls 03 Small Hall/1 Halls 03 Small Hall L.wav" -P ${music}
+wget -c "${URL}M7 - 1 Halls 03 Small Hall/1 Halls 03 Small Hall R.wav" -P ${music}
+wget -c "${URL}M7 - 1 Halls 03 Small Hall/1 Halls 03 Small Hall  M-to-S.wav" -P ${music}
+wget -c "${URL}M7 - 2 Plates 01 Bright Plate/2 Plates 01 Bright Plate  M-to-S.wav" -P ${music}
+wget -c "${URL}M7 - 2 Plates 01 Bright Plate/2 Plates 01 Bright Plate L.wav" -P ${music}
+wget -c "${URL}M7 - 2 Plates 01 Bright Plate/2 Plates 01 Bright Plate R.wav" -P ${music}
+wget -c "${URL}M7 - 4 Chambers 09 Snare Chamber/4 Chambers 09 Snare Chamber  M-to-S.wav" -P ${music}
+wget -c "${URL}M7 - 4 Chambers 09 Snare Chamber/4 Chambers 09 Snare Chamber L.wav" -P ${music}
+wget -c "${URL}M7 - 4 Chambers 09 Snare Chamber/4 Chambers 09 Snare Chamber R.wav" -P ${music}
+wget -c "${URL}M7 - 2 Plates 19 Crystal Plate/2 Plates 19 Crystal Plate  M-to-S.wav" -P ${music}
+wget -c "${URL}M7 - 2 Plates 19 Crystal Plate/2 Plates 19 Crystal Plate L.wav" -P ${music}
+wget -c "${URL}M7 - 2 Plates 19 Crystal Plate/2 Plates 19 Crystal Plate R.wav" -P ${music}
+wget -c "${URL}M7 - 3 Rooms 16 Djangos Room/3 Rooms 16 Djangos Room L.wav" -P ${music}
+wget -c "${URL}M7 - 3 Rooms 16 Djangos Room/3 Rooms 16 Djangos Room  M-to-S.wav" -P ${music}
+wget -c "${URL}M7 - 3 Rooms 16 Djangos Room/3 Rooms 16 Djangos Room R.wav" -P ${music}
+wget -c "${URL}M7 - 3 Rooms 35 SF Perf Room/3 Rooms 35 SF Perf Room R.wav" -P ${music}
+wget -c "${URL}M7 - 3 Rooms 35 SF Perf Room/3 Rooms 35 SF Perf Room L.wav" -P ${music}
+wget -c "${URL}M7 - 3 Rooms 35 SF Perf Room/3 Rooms 35 SF Perf Room  M-to-S.wav" -P ${music}
+wget -c "${URL}M7 - 4 Chambers 08 Kick Chamber/4 Chambers 08 Kick Chamber  M-to-S.wav" -P ${music}
+wget -c "${URL}M7 - 4 Chambers 08 Kick Chamber/4 Chambers 08 Kick Chamber R.wav" -P ${music}
+wget -c "${URL}M7 - 4 Chambers 08 Kick Chamber/4 Chambers 08 Kick Chamber L.wav" -P ${music}
+wget -c "${URL}M7 - 6 Spaces 08 Car Park/6 Spaces 08 Car Park L.wav" -P ${music}
+wget -c "${URL}M7 - 6 Spaces 08 Car Park/6 Spaces 08 Car Park R.wav" -P ${music}
+wget -c "${URL}M7 - 6 Spaces 08 Car Park/6 Spaces 08 Car Park  M-to-S.wav" -P ${music}
+wget -c "${URL}M7 - 1 Halls 18 Boston Hall A/1 Halls 18 Boston Hall A R.wav" -P ${music}
+wget -c "${URL}M7 - 1 Halls 18 Boston Hall A/1 Halls 18 Boston Hall A  M-to-S.wav" -P ${music}
+wget -c "${URL}M7 - 1 Halls 18 Boston Hall A/1 Halls 18 Boston Hall A L.wav" -P ${music}
+wget -c "${URL}M7 - 1 Halls 11 Gold Hall/1 Halls 11 Gold Hall R.wav" -P ${music}
+wget -c "${URL}M7 - 1 Halls 11 Gold Hall/1 Halls 11 Gold Hall L.wav" -P ${music}
+wget -c "${URL}M7 - 1 Halls 11 Gold Hall/1 Halls 11 Gold Hall  M-to-S.wav" -P ${music}
+wget -c "${URL}M7 - 3 Rooms 23 Large Red Room/3 Rooms 23 Large Red Room R.wav" -P ${music}
+wget -c "${URL}M7 - 3 Rooms 23 Large Red Room/3 Rooms 23 Large Red Room L.wav" -P ${music}
+wget -c "${URL}M7 - 3 Rooms 23 Large Red Room/3 Rooms 23 Large Red Room  M-to-S.wav" -P ${music}
+wget -c "${URL}M7 - 4 Chambers 16 Amb Chamber B/4 Chambers 16 Amb Chamber B R.wav" -P ${music}
+wget -c "${URL}M7 - 4 Chambers 16 Amb Chamber B/4 Chambers 16 Amb Chamber B L.wav" -P ${music}
+wget -c "${URL}M7 - 4 Chambers 16 Amb Chamber B/4 Chambers 16 Amb Chamber B  M-to-S.wav" -P ${music}
+wget -c "${URL}M7 - 2 Plates 21 Sun Plate B/2 Plates 20 Sun Plate B R.wav" -P ${music}
+wget -c "${URL}M7 - 2 Plates 21 Sun Plate B/2 Plates 20 Sun Plate B  M-to-S.wav" -P ${music}
+wget -c "${URL}M7 - 2 Plates 21 Sun Plate B/2 Plates 20 Sun Plate B L.wav" -P ${music}
+wget -c "${URL}M7 - 2 Plates 23 Vocal Plate B/2 Plates 23 Vocal Plate B  M-to-S.wav" -P ${music}
+wget -c "${URL}M7 - 2 Plates 23 Vocal Plate B/2 Plates 23 Vocal Plate B L.wav" -P ${music}
+wget -c "${URL}M7 - 2 Plates 23 Vocal Plate B/2 Plates 23 Vocal Plate B R.wav" -P ${music}
+wget -c "${URL}M7 - 4 Chambers 12 CD Chamber/4 Chambers 12 CD Chamber R.wav" -P ${music}
+wget -c "${URL}M7 - 4 Chambers 12 CD Chamber/4 Chambers 12 CD Chamber L.wav" -P ${music}
+wget -c "${URL}M7 - 4 Chambers 12 CD Chamber/4 Chambers 12 CD Chamber  M-to-S.wav" -P ${music}
+wget -c "${URL}M7 - 2 Plates 02 Dark Plate/2 Plates 02 Dark Plate R.wav" -P ${music}
+wget -c "${URL}M7 - 2 Plates 02 Dark Plate/2 Plates 02 Dark Plate  M-to-S.wav" -P ${music}
+wget -c "${URL}M7 - 2 Plates 02 Dark Plate/2 Plates 02 Dark Plate L.wav" -P ${music}
+wget -c "${URL}M7 - 4 Chambers 17 Sunset Chamber/4 Chambers 17 Sunset Chamber R.wav" -P ${music}
+wget -c "${URL}M7 - 4 Chambers 17 Sunset Chamber/4 Chambers 17 Sunset Chamber L.wav" -P ${music}
+wget -c "${URL}M7 - 4 Chambers 17 Sunset Chamber/4 Chambers 17 Sunset Chamber  M-to-S.wav" -P ${music}
+wget -c "${URL}M7 - 1 Halls 01 Large Hall/1 Halls 01 Large Hall R.wav" -P ${music}
+wget -c "${URL}M7 - 1 Halls 01 Large Hall/1 Halls 01 Large Hall L.wav" -P ${music}
+wget -c "${URL}M7 - 1 Halls 01 Large Hall/1 Halls 01 Large Hall  M-to-S.wav" -P ${music}
+wget -c "${URL}M7 - 4 Chambers 06 Large & Bright/4 Chambers 06 Large & Bright R.wav" -P ${music}
+wget -c "${URL}M7 - 4 Chambers 06 Large & Bright/4 Chambers 06 Large & Bright L.wav" -P ${music}
+wget -c "${URL}M7 - 4 Chambers 06 Large & Bright/4 Chambers 06 Large & Bright  M-to-S.wav" -P ${music}
+wget -c "${URL}M7 - 1 Halls 06 Small & Near/1 Halls 06 Small & Near  M-to-S.wav" -P ${music}
+wget -c "${URL}M7 - 1 Halls 06 Small & Near/1 Halls 06 Small & Near R.wav" -P ${music}
+wget -c "${URL}M7 - 1 Halls 06 Small & Near/1 Halls 06 Small & Near L.wav" -P ${music}

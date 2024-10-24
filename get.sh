@@ -2,6 +2,7 @@
 
 # Archivo que contiene la lista de comandos wget (generado previamente)
 file="lista.txt"
+URL="https://raw.githubusercontent.com/PIBSAS/samp/main/"
 
 # Verificar si el archivo de lista existe
 if [ ! -f "$file" ]; then
@@ -10,14 +11,14 @@ if [ ! -f "$file" ]; then
 fi
 
 # Directorio de descarga (Music folder)
-get="$HOME/Music"
+music="$HOME/Music"
 
 # Crear la carpeta Music si no existe
-if [ ! -d "$get" ]; then
-    mkdir -p "$get"
-    echo "Carpeta '${get}' creada."
+if [ ! -d "$music" ]; then
+    mkdir -p "$music"
+    echo "Carpeta '${music}' creada."
 else
-    echo "La carpeta '${get}' ya existe."
+    echo "La carpeta '${music}' ya existe."
 fi
 
 # Leer la lista y ejecutar wget para cada línea
