@@ -1,8 +1,8 @@
 #!/bin/bash
 
 # Archivo que contiene la lista de comandos wget (generado previamente)
-file="lista.txt"
 URL="https://raw.githubusercontent.com/PIBSAS/samp/main/"
+file="${URL}lista.txt"
 
 # Verificar si el archivo de lista existe
 if [ ! -f "$file" ]; then
