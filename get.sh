@@ -1,12 +1,12 @@
 #!/bin/bash
 
-# Archivo que contiene la lista de comandos wget (generado previamente)
+# URL base
 URL="https://raw.githubusercontent.com/PIBSAS/samp/main/"
 file="${URL}lista.txt"
 
-# Verificar si el archivo de lista existe
-if [ ! -f "$file" ]; then
-    echo "The '$file' doesnt exist."
+# Verificar si el archivo de lista existe en el servidor
+if ! curl --head --silent --fail "$file" > /dev/null; then
+    echo "The '$file' doesn't exist."
     exit 1
 fi
 
@@ -21,10 +21,16 @@ else
     echo "La carpeta '${music}' ya existe."
 fi
 
+# Descargar el archivo de lista
+curl -o lista.txt "$file"
+
 # Leer la lista y ejecutar wget para cada línea
 while IFS= read -r linea; do
     echo "Downloading: $linea"
     eval "$linea"
-done < "$file"
+done < lista.txt
+
+# Limpieza
+rm lista.txt
 
 echo "Complete."
